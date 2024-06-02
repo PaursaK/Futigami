@@ -1,0 +1,1 @@
+#this class will incorporate plotly and host a local session (at first) to display all the information gathered from fbref
