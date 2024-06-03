@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-url = "https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup"
-
+url = "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures-html"
 page = requests.get(url)
 
 print(page.text)
