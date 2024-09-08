@@ -1,9 +1,10 @@
 import Match
+import pandas as pd
 
 class Season:
     
 
-    def __init__(self, startYear, endYear, league, country, mostGoals, mostAssists, mostCleanSheets):
+    def __init__(self, startYear, endYear, league, country, mostGoals, mostAssists, mostCleanSheets, dictionaryData):
         '''
         seasons constructor that builds a seasons object that holds data on the season year, country, league, and leading stat players
         :param: startYear (Integer) - year the season starts
@@ -22,7 +23,7 @@ class Season:
         self.mostGoals = mostGoals
         self.mostAssists = mostAssists
         self.mostCleanSheets = mostCleanSheets
-        self.seasonMatches = []
+        self.seasonMatchTable = pd.DataFrame(dictionaryData)
 
     
     def addMatchToSeason(self, match):
