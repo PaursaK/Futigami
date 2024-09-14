@@ -9,13 +9,14 @@ import pandas as pd
                 # potentially build a method that parses an html page rather than have a soupObject designated for the Data Manager
                 # only class variables should be a list of seasons parsed and maybe a beautiful soup object
 
-class DataManager:
+class WebScraper:
 
     def __init__(self, websiteUrl):
         self.url = websiteUrl
         self.page = requests.get(self.url)
         self.soupObject = BeautifulSoup(self.page.text, "html.parser")
         self.seasonData = pd.DataFrame(self.readWebsiteTableData())
+
 
     def getLeagueHistory(self):
         '''getter method that returns a pandas dataframe of the season results for a given year
@@ -86,17 +87,17 @@ class DataManager:
 
 url = "https://fbref.com/en/comps/11/2023-2024/schedule/2023-2024-Serie-A-Scores-and-Fixtures"
 
-dManager = DataManager(url)
+ws = WebScraper(url)
 print("-------Pandas DataFrame Below For 2023-2024 Season---------")
-print(dManager.getLeagueHistory().head(3))
-print(dManager.getSeasonSummary())
+print(ws.getLeagueHistory().head(3))
+print(ws.getSeasonSummary())
 
 url = "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures"
 
-dManager1 = DataManager(url)
+ws1 = WebScraper(url)
 print("-------Pandas DataFrame Below For 2022-2023 Season---------")
-print(dManager1.getLeagueHistory().head(3))
-print(dManager1.getSeasonSummary())
+print(ws1.getLeagueHistory().head(3))
+print(ws1.getSeasonSummary())
 
 
     
