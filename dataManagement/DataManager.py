@@ -4,8 +4,10 @@ import pandas as pd
 
 
 #Plan of Action
-    # 1 - Retrieive appropriate table tags in order to engage with the prem league fixture table
-    # 2 - translate that data to a pandas data frame
+    # this class should be holding all season and match data, it should not store an individual season dataframe
+    # will need to rethink the constructor to make this a more accurate representation of a data management tier
+                # potentially build a method that parses an html page rather than have a soupObject designated for the Data Manager
+                # only class variables should be a list of seasons parsed and maybe a beautiful soup object
 
 class DataManager:
 
