@@ -15,12 +15,33 @@ class DataManager:
         self.soupObject = BeautifulSoup(self.page.text, "html.parser")
         self.seasonData = pd.DataFrame(self.readWebsiteTableData())
 
-    def getSeasonData(self):
+    def getLeagueHistory(self):
         '''getter method that returns a pandas dataframe of the season results for a given year
         :param: None
         :return: pandas DataFrame
         '''
         return self.seasonData
+
+    def getSeasonSummary(self, containerInfo = ["div", "info"], tagsOfInterest = ["p", "a", "strong"], 
+                         listOfSummaryData = ["Governing Country", "Champion", "Most Goals", "Most Assists", "Most Clean Sheets"]):
+        
+        seasonSummaryDictionary = {}
+
+        div_info = self.soupObject.find(containerInfo[0], id = containerInfo[1])
+        tagList = div_info.find_all(tagsOfInterest[0])
+
+        for tag in tagList:
+            atag = tag.find(tagsOfInterest[1])
+            strongtag = tag.find(tagsOfInterest[2])
+
+            if strongtag == None or atag == None:
+                continue
+            elif strongtag.text in listOfSummaryData:
+                seasonSummaryDictionary[strongtag.text] = atag.text
+
+        return seasonSummaryDictionary
+                
+
 
 
     def readWebsiteTableData(self, tableTag = "tbody", tableRowTag = "tr"):
@@ -61,17 +82,20 @@ class DataManager:
         return dataDict
             
 
-url = "https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures"
+url = "https://fbref.com/en/comps/11/2023-2024/schedule/2023-2024-Serie-A-Scores-and-Fixtures"
 
 dManager = DataManager(url)
 print("-------Pandas DataFrame Below For 2023-2024 Season---------")
-print(dManager.getSeasonData().head(3))
+print(dManager.getLeagueHistory().head(3))
+print(dManager.getSeasonSummary())
 
 url = "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures"
 
 dManager1 = DataManager(url)
 print("-------Pandas DataFrame Below For 2022-2023 Season---------")
-print(dManager1.getSeasonData().head(3))
+print(dManager1.getLeagueHistory().head(3))
+print(dManager1.getSeasonSummary())
+
 
     
 
