@@ -24,65 +24,89 @@ class WebScraper:
         :return: pandas DataFrame
         '''
         return self.seasonData
+    
+    def getLeagueName(self, containerTag = "div", containerId ="info", headerTag = "h1"):
+        containerInfo = self. getContainerInfo(containerTag, containerId)
+        header = self.getTagOfInterest(containerInfo,headerTag)
+        return header[0].text.strip()
+    
+    def getSeasonYearInterval(self, headerString):
+        interval = headerString.split("-")
+        return interval[0].strip(), interval[1][:4].strip()
+        
+    def getContainerInfo(self, containerTag, containerId=None):
+        '''Get container info by tag and optional id.'''
+        if containerId:
+            return self.soupObject.find(containerTag, id=containerId)
+        return self.soupObject.find(containerTag)
+    
+    def getTagOfInterest(self, containerInfo, tagOfInterest):
+        tagList = containerInfo.find_all(tagOfInterest)
+        return tagList
+
 
     def getSeasonSummary(self, containerInfo = ["div", "info"], tagsOfInterest = ["p", "a", "strong"], 
                          listOfSummaryData = ["Governing Country", "Champion", "Most Goals", "Most Assists", "Most Clean Sheets"]):
-        
+
+        # Initialize dictionary for storing the season summary
         seasonSummaryDictionary = {}
 
-        div_info = self.soupObject.find(containerInfo[0], id = containerInfo[1])
-        tagList = div_info.find_all(tagsOfInterest[0])
+        # Get the container (div or other) based on tag and id
+        div_info = self.getContainerInfo(containerInfo[0], containerInfo[1])
+        if div_info is None:
+            return seasonSummaryDictionary  # Return empty dict if no container found
 
+        # Get all tags of interest (e.g., all <p> tags)
+        tagList = self.getTagOfInterest(div_info, tagsOfInterest[0])
+        
+        # Iterate through the tags
         for tag in tagList:
-            atag = tag.find(tagsOfInterest[1])
-            strongtag = tag.find(tagsOfInterest[2])
+            # Find the strong and a tags within the tag
+            strong_tag = tag.find(tagsOfInterest[2])
+            a_tag = tag.find(tagsOfInterest[1])
 
-            if strongtag == None or atag == None:
-                continue
-            elif strongtag.text in listOfSummaryData:
-                seasonSummaryDictionary[strongtag.text] = atag.text
+            # Continue only if both strong and a tags are found
+            if strong_tag and a_tag and strong_tag.text in listOfSummaryData:
+                seasonSummaryDictionary[strong_tag.text] = a_tag.text
 
         return seasonSummaryDictionary
-                
 
+    def getTableRows(self, tableTag, tableRowTag):
+        '''
+        Fetches table rows from the soup object.
+        '''
+        table = self.soupObject.find(tableTag)
+        if not table:
+            return None
+        return table.find_all(tableRowTag)
+    
+    def initializeTableColumns(self, headRow):
+        '''Extracts the column names from the header row and initializes the data dictionary.'''
+        listOfColumns = [column["data-stat"] for column in headRow]
+        dataDict = {column: [] for column in listOfColumns}
+        return listOfColumns, dataDict
 
+    def fillDataDict(self, tableRows, listOfColumns, dataDict):
+        '''Populate the dataDictionary with row data from the table'''
+        for row in tableRows:
+            rowData = [column.text.strip() for column in row]
+            for i, column in enumerate(listOfColumns):
+                dataDict[column].append(rowData[i])
 
     def readWebsiteTableData(self, tableTag = "tbody", tableRowTag = "tr"):
         '''method that reads table data from a webscraped url and returns a data dictionary ready for conversion to a pandas data frame
         :param: tableTag = 'tbody'
         :param: tableRowTag = "tr"
         :return: dictionary with aggregate list of data per columnn found in a table on a website
-        
         '''
-        tableRows = self.soupObject.find(tableTag).find_all(tableRowTag)
+        tableRows = self.getTableRows(tableTag, tableRowTag)
 
-        #list of columns for the website table
-        listOfColumns = None
-        
-        #dictionary for pandas dataframe conversion
-        dataDict = {}
+        listOfColumns, dataDict = self.initializeTableColumns(tableRows[0])
 
-        #iterate through the rows found on website table
-        for row in tableRows:
-            
-            #initialize the columns in the pandas dictionaryData
-            if listOfColumns == None:
-                #grabs all the columns
-                listOfColumns = [column["data-stat"] for column in row]
-                #for each column initialize a dictionary entry with a list
-                for column in listOfColumns:
-                    dataDict[column] = []
-            
-            #per row, collect the data found in each column
-            rowData = [column.text for column in row]
-            #print(rowData)
+        self.fillDataDict(tableRows, listOfColumns, dataDict)
 
-            #append row data with respect to column index
-            for i in range(len(listOfColumns)):
-                dataDict[listOfColumns[i]].append(rowData[i])
-
-        #return data dictionary for panda dataframe integration
         return dataDict
+
             
 
 url = "https://fbref.com/en/comps/11/2023-2024/schedule/2023-2024-Serie-A-Scores-and-Fixtures"

@@ -6,24 +6,32 @@ page = requests.get(url)
 #print(page.text)
 soup = BeautifulSoup(page.text, "html.parser")
 
-div_info = soup.find("div", id = "info")
-ptagList = div_info.find_all("p")
-print(ptagList)
+def getContainerInfo(soup, containerTag, containerId):
+    div_info = soup.find(containerTag, id = containerId)
+    div_info.find_all("p")
+    return div_info
 
-for ptag in ptagList:
-    atag = ptag.find("a")
-    strongtag = ptag.find("strong")
+def getTagOfInterest(containerInfo, tagOfInterest):
+    tagList = containerInfo.find_all(tagOfInterest)
+    return tagList
 
-    if strongtag == None or atag == None:
-        continue
-    else:
-        print(strongtag.text + ": " + atag.text)
+def getLeagueName(soup, containerTag = "div", containerId ="info", headerTag = "h1"):
+    containerInfo = getContainerInfo(soup, containerTag, containerId)
+    header = getTagOfInterest(containerInfo, headerTag)
+    return header[0].text.strip()
 
-    #print(ptag.find("a").text)
-#atagList = div_info.find_all("a")
-#print(atagList)
-#for atag in atagList:
-#    print(atag.text)
-#print(soup.prettify)
+def getSeasonYearInterval(headerString):
+    interval = headerString.split("-")
+    return interval[0].strip(), interval[1][:4].strip()
+
+div_info = getContainerInfo(soup, "div", "info")
+tagList = getTagOfInterest(div_info, "p")
+leagueName = getLeagueName(soup, "div", "info", "h1")
+seasonYear = getSeasonYearInterval(leagueName)
+print(leagueName)
+print(seasonYear)
+
+print(tagList)
+
 
 
