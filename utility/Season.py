@@ -1,10 +1,10 @@
-import Match
+#import Match
 import pandas as pd
 
 class Season:
     
 
-    def __init__(self, startYear, endYear, seasonSummaryDictionary, dictionaryData):
+    def __init__(self, seasonSummaryDictionary, dictionaryData):
         '''
         seasons constructor that builds a seasons object that holds data on the season year, country, league, and leading stat players
         :param: startYear (Integer) - year the season starts
@@ -16,9 +16,7 @@ class Season:
         :param: mostCleanSheets (String) - the players name with the most clean sheets
         '''
 
-        self.startYear = startYear
-        self.endYear = endYear
-        self.league, self.country, self.champion, self.mostGoals, self.mostAssists, self.mostCleanSheets = self.storeSeasonSummary(seasonSummaryDictionary)
+        self.startYear, self.endYear, self.league, self.country, self.champion, self.mostGoals, self.mostAssists, self.mostCleanSheets = self.storeSeasonSummary(seasonSummaryDictionary)
         self.seasonMatches = []
         self.seasonMatchTable = pd.DataFrame(dictionaryData)
 
@@ -35,7 +33,12 @@ class Season:
         #need to iterate through pandas data frame and store the information
         #update notes column with match object (this will aid in representing the data later for visualization)
         pass
+
     def storeSeasonSummary(self, seasonSummary):
-        return seasonSummary["Governing Country"], seasonSummary["Champion"], seasonSummary["Most Goals"], seasonSummary["Most Assists"], seasonSummary["Most Clean Sheets"]
+        return seasonSummary["StartYear"], seasonSummary["EndYear"],seasonSummary["League"], seasonSummary["Governing Country"], seasonSummary["Champion"], seasonSummary["Most Goals"], seasonSummary["Most Assists"], seasonSummary["Most Clean Sheets"]
+    
+    def __str__(self):
+        return "Start: " + self.startYear + "\n" + "End: " + self.endYear + "\n" + "Champiion: " + self.champion + "\n" + "Most Goals: " + self.mostGoals + "\n" + "Most Assists: " + self.mostAssists + "\n" + "Most Clean Sheets: " + self.mostCleanSheets
+
 
 

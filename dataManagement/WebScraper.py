@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import re
 
 
 #Plan of Action
@@ -15,24 +16,35 @@ class WebScraper:
         self.url = websiteUrl
         self.page = requests.get(self.url)
         self.soupObject = BeautifulSoup(self.page.text, "html.parser")
-        self.seasonData = pd.DataFrame(self.readWebsiteTableData())
+        #self.seasonData = pd.DataFrame(self.readWebsiteTableData())
 
 
-    def getLeagueHistory(self):
-        '''getter method that returns a pandas dataframe of the season results for a given year
+    '''def getLeagueHistory(self):
+        getter method that returns a pandas dataframe of the season results for a given year
         :param: None
         :return: pandas DataFrame
-        '''
-        return self.seasonData
+        
+        return self.seasonData'''
     
-    def getLeagueName(self, containerTag = "div", containerId ="info", headerTag = "h1"):
+    def getPageHeader(self, containerTag = "div", containerId ="info", headerTag = "h1"):
         containerInfo = self. getContainerInfo(containerTag, containerId)
         header = self.getTagOfInterest(containerInfo,headerTag)
         return header[0].text.strip()
     
-    def getSeasonYearInterval(self, headerString):
-        interval = headerString.split("-")
-        return interval[0].strip(), interval[1][:4].strip()
+    def getSeasonDetails(self, headerString):
+        # Regex pattern to capture two sets of four digits and the league name
+        pattern = r"(\d{4})\s*-\s*(\d{4})\s*(.*)\s+Scores & Fixtures"
+        match = re.search(pattern, headerString)
+        
+        if match:
+            # Extract the years and league name
+            start_year = match.group(1)
+            end_year = match.group(2)
+            league_name = match.group(3).strip()
+            return start_year, end_year, league_name
+        
+        # Return None or raise an error if no match is found
+        return None
         
     def getContainerInfo(self, containerTag, containerId=None):
         '''Get container info by tag and optional id.'''
@@ -50,6 +62,12 @@ class WebScraper:
 
         # Initialize dictionary for storing the season summary
         seasonSummaryDictionary = {}
+
+        seasonDetails = self.getSeasonDetails(self.getPageHeader())
+
+        seasonSummaryDictionary["StartYear"] = seasonDetails[0]
+        seasonSummaryDictionary["EndYear"] = seasonDetails[1]
+        seasonSummaryDictionary["League"] = seasonDetails[2]
 
         # Get the container (div or other) based on tag and id
         div_info = self.getContainerInfo(containerInfo[0], containerInfo[1])
@@ -72,9 +90,7 @@ class WebScraper:
         return seasonSummaryDictionary
 
     def getTableRows(self, tableTag, tableRowTag):
-        '''
-        Fetches table rows from the soup object.
-        '''
+        '''Fetches table rows from the soup object.'''
         table = self.soupObject.find(tableTag)
         if not table:
             return None
@@ -100,28 +116,10 @@ class WebScraper:
         :return: dictionary with aggregate list of data per columnn found in a table on a website
         '''
         tableRows = self.getTableRows(tableTag, tableRowTag)
-
         listOfColumns, dataDict = self.initializeTableColumns(tableRows[0])
-
         self.fillDataDict(tableRows, listOfColumns, dataDict)
 
         return dataDict
-
-            
-
-url = "https://fbref.com/en/comps/11/2023-2024/schedule/2023-2024-Serie-A-Scores-and-Fixtures"
-
-ws = WebScraper(url)
-print("-------Pandas DataFrame Below For 2023-2024 Season---------")
-print(ws.getLeagueHistory().head(3))
-print(ws.getSeasonSummary())
-
-url = "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures"
-
-ws1 = WebScraper(url)
-print("-------Pandas DataFrame Below For 2022-2023 Season---------")
-print(ws1.getLeagueHistory().head(3))
-print(ws1.getSeasonSummary())
 
 
     

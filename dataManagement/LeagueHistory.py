@@ -1,6 +1,5 @@
-import WebScraper as ws
-import utility.Season
-import utility.Match
+from .WebScraper import WebScraper
+from utility import Season
 
 class LeagueHistory:
     '''class for managing all the data scraped from the webiste
@@ -12,4 +11,10 @@ class LeagueHistory:
 
     def addSeason(self, seasonObject):
         self.seasonsHistory.append(seasonObject)
+
+    def createSeasonObject(self, seasonSummaryData, fixtureTableDictionary):
+
+        return Season(seasonSummaryData, fixtureTableDictionary)
+    
+
 
