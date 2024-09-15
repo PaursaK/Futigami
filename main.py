@@ -3,7 +3,7 @@ from utility import Season
 
 LH = LeagueHistory("Premier League")
 
-for i in range(1888, 1889):
+for i in range(1888, 1990):
     url = f"https://fbref.com/en/comps/9/{i}-{i+1}/schedule/{i}-{i+1}-Premier-League-Scores-and-Fixtures"
 
     webscraper = WebScraper(url)
@@ -12,10 +12,11 @@ for i in range(1888, 1889):
     eachSeason = LH.createSeasonObject(seasonSummaryDictionary, fixtureTableDictionary)
 
 
-print(LH.seasonsHistory)
+#print(LH.seasonsHistory)
 
 for season in LH.seasonsHistory:
     print(season)
+    print(season.seasonMatchTable.head(3))
     print("-------------------------------------------")
 
 

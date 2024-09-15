@@ -52,8 +52,6 @@ class WebScraper:
         return self.soupObject.find(containerTag)
     
     def getTagOfInterest(self, containerInfo, tagOfInterest):
-        print(containerInfo)
-        print(tagOfInterest)
         tagList = containerInfo.find_all(tagOfInterest)
         return tagList
 
