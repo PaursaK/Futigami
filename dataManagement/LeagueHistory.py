@@ -13,8 +13,10 @@ class LeagueHistory:
         self.seasonsHistory.append(seasonObject)
 
     def createSeasonObject(self, seasonSummaryData, fixtureTableDictionary):
-
-        return Season(seasonSummaryData, fixtureTableDictionary)
+        
+        newSeason = Season(seasonSummaryData, fixtureTableDictionary)
+        self.addSeason(newSeason)
+        return newSeason
     
 
 

@@ -1,4 +1,4 @@
-#import Match
+from utility import Match
 import pandas as pd
 
 class Season:
@@ -35,10 +35,18 @@ class Season:
         pass
 
     def storeSeasonSummary(self, seasonSummary):
-        return seasonSummary["StartYear"], seasonSummary["EndYear"],seasonSummary["League"], seasonSummary["Governing Country"], seasonSummary["Champion"], seasonSummary["Most Goals"], seasonSummary["Most Assists"], seasonSummary["Most Clean Sheets"]
+        startYear = seasonSummary.get("StartYear", None)
+        endYear = seasonSummary.get("EndYear", None)
+        league = seasonSummary.get("League", None)
+        country = seasonSummary.get("Governing Country", None)
+        champion = seasonSummary.get("Champion", None)
+        mostGoals = seasonSummary.get("Most Goals", None)
+        mostAssists = seasonSummary.get("Most Assists", None)
+        mostCleanSheets = seasonSummary.get("Most Clean Sheets", None)
+        return startYear, endYear, league, country, champion, mostGoals, mostAssists, mostCleanSheets
     
     def __str__(self):
-        return "Start: " + self.startYear + "\n" + "End: " + self.endYear + "\n" + "Champiion: " + self.champion + "\n" + "Most Goals: " + self.mostGoals + "\n" + "Most Assists: " + self.mostAssists + "\n" + "Most Clean Sheets: " + self.mostCleanSheets
+        return "Start: " + str(self.startYear) + "\n" + "End: " + str(self.endYear) + "\n" + "Champion: " + str(self.champion) + "\n" + "Most Goals: " + str(self.mostGoals) + "\n" + "Most Assists: " + str(self.mostAssists) + "\n" + "Most Clean Sheets: " + str(self.mostCleanSheets)
 
 
 

@@ -1,32 +1,24 @@
 from dataManagement import LeagueHistory, WebScraper
-#from utility import Season
+from utility import Season
+
+LH = LeagueHistory("Premier League")
+
+for i in range(1888, 1889):
+    url = f"https://fbref.com/en/comps/9/{i}-{i+1}/schedule/{i}-{i+1}-Premier-League-Scores-and-Fixtures"
+
+    webscraper = WebScraper(url)
+    seasonSummaryDictionary = webscraper.getSeasonSummary()
+    fixtureTableDictionary = webscraper.readWebsiteTableData()
+    eachSeason = LH.createSeasonObject(seasonSummaryDictionary, fixtureTableDictionary)
 
 
-def process_season(url, league_name):
-    try:
-        webscraper = WebScraper(url)
-        seasonSummaryDictionary = webscraper.getSeasonSummary()
-        fixtureTableDictionary = webscraper.readWebsiteTableData()
+print(LH.seasonsHistory)
 
-        LH = LeagueHistory(seasonSummaryDictionary.get("League", "Unknown League"))
-        seasonObject = LH.createSeasonObject(seasonSummaryDictionary, fixtureTableDictionary)
-        
-        print(seasonObject)
-        print(f"-------Pandas DataFrame Below For {league_name}---------")
-        print(seasonObject.seasonMatchTable.head(3))
-    except Exception as e:
-        print(f"An error occurred: {e}")
+for season in LH.seasonsHistory:
+    print(season)
+    print("-------------------------------------------")
 
-# URL and League names
-url1 = "https://fbref.com/en/comps/11/2023-2024/schedule/2023-2024-Serie-A-Scores-and-Fixtures"
-league_name1 = "2023-2024 Serie A"
 
-url2 = "https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures"
-league_name2 = "2022-2023 Premier League"
-
-# Process both seasons
-process_season(url1, league_name1)
-process_season(url2, league_name2)
 
 
 

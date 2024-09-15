@@ -16,7 +16,6 @@ class WebScraper:
         self.url = websiteUrl
         self.page = requests.get(self.url)
         self.soupObject = BeautifulSoup(self.page.text, "html.parser")
-        #self.seasonData = pd.DataFrame(self.readWebsiteTableData())
 
 
     '''def getLeagueHistory(self):
@@ -53,6 +52,8 @@ class WebScraper:
         return self.soupObject.find(containerTag)
     
     def getTagOfInterest(self, containerInfo, tagOfInterest):
+        print(containerInfo)
+        print(tagOfInterest)
         tagList = containerInfo.find_all(tagOfInterest)
         return tagList
 
