@@ -3,7 +3,7 @@ from utility import Season
 
 LH = LeagueHistory("Premier League")
 
-for i in range(1888, 1990):
+for i in range(1888, 1895):
     url = f"https://fbref.com/en/comps/9/{i}-{i+1}/schedule/{i}-{i+1}-Premier-League-Scores-and-Fixtures"
 
     webscraper = WebScraper(url)
