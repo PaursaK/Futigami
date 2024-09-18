@@ -26,14 +26,6 @@ class WebScraper:
             print(f"An error occurred while fetching the URL: {e}")
         except Exception as e:
             print(f"An error occurred while parsing the page: {e}")
-
-
-    '''def getLeagueHistory(self):
-        getter method that returns a pandas dataframe of the season results for a given year
-        :param: None
-        :return: pandas DataFrame
-        
-        return self.seasonData'''
     
     def getPageHeader(self, containerTag = "div", containerId ="info", headerTag = "h1"):
         try:

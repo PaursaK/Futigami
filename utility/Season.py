@@ -46,7 +46,7 @@ class Season:
         return startYear, endYear, league, country, champion, mostGoals, mostAssists, mostCleanSheets
     
     def __str__(self):
-        return "Start: " + str(self.startYear) + "\n" + "End: " + str(self.endYear) + "\n" + "Champion: " + str(self.champion) + "\n" + "Most Goals: " + str(self.mostGoals) + "\n" + "Most Assists: " + str(self.mostAssists) + "\n" + "Most Clean Sheets: " + str(self.mostCleanSheets)
+        return "League: " + str(self.league) + "\n"  + "Start: " + str(self.startYear) + "\n" + "End: " + str(self.endYear) + "\n" + "Champion: " + str(self.champion) + "\n" + "Most Goals: " + str(self.mostGoals) + "\n" + "Most Assists: " + str(self.mostAssists) + "\n" + "Most Clean Sheets: " + str(self.mostCleanSheets)
 
 
 
