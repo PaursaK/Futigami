@@ -20,6 +20,8 @@ class Season:
         self.seasonMatches = []
         self.seasonMatchTable = pd.DataFrame(dictionaryData)
 
+    def getSeasonTable(self):
+        return self.seasonMatchTable
 
     
     def addMatchToSeason(self, match):

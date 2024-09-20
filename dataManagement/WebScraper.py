@@ -199,11 +199,15 @@ class WebScraper:
             if not dataDict:
                 raise ValueError("Data dictionary is empty or None.")
 
-            # Iterate through the table rows and extract data
+            # Loop through each row in tableRows
             for row in tableRows:
-                # Extract text from each cell
-                rowData = [column.text.strip() for column in row]
+                # Extract text from each cell, including both <th> and <td> elements
+                rowData = [cell.text.strip() for cell in row.find_all(['th', 'td'])]
                 
+                # Skip the row if it is empty
+                if not rowData or all(cell == "" for cell in rowData):
+                    continue
+                    
                 # Populate the data dictionary with the row data
                 for i, column in enumerate(listOfColumns):
                     dataDict[column].append(rowData[i])

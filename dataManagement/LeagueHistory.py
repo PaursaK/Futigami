@@ -1,5 +1,6 @@
 from .WebScraper import WebScraper
 from utility import Season
+import pandas as pd
 
 class LeagueHistory:
     '''class for managing all the data scraped from the webiste
@@ -17,6 +18,17 @@ class LeagueHistory:
         newSeason = Season(seasonSummaryData, fixtureTableDictionary)
         self.addSeason(newSeason)
         return newSeason
+    
+    def concatenateHistoryOfLeague (self, seasonObjectList):
+
+        combinedDF = pd.DataFrame({'gameweek':[],'dayofweek':[], 'date':[], 'start_time':[], 'home_team':[], 'score':[], 'away_team':[], 'attendance':[], 'venue':[], 'referee':[], 'match_report' :[], 'notes': []})
+
+        for season in seasonObjectList:
+            combinedDF = pd.merge(combinedDF, season.getSeasonTable(), on=['gameweek','dayofweek', 'date', 'start_time', 'home_team', 'score', 'away_team', 'attendance', 'venue', 'referee', 'match_report', 'notes'], how='outer')
+        
+        return combinedDF.drop_duplicates()
+
+
     
 
 
