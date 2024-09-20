@@ -31,11 +31,10 @@ class LeagueHistory:
         #columns we are interested in aggregating data for
         
     def concatenateHistoryOfLeague(self, seasonObjectList):
-        print("Method called with seasonObjectList: ", seasonObjectList)
         
         # Check if seasonObjectList is empty
         if not seasonObjectList:
-            print("Empty seasonObjectList")
+            print("Empty Season List")
             return None
 
         # Start with an empty dataframe
