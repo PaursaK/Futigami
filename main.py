@@ -1,9 +1,13 @@
-from dataManagement import LeagueHistory, WebScraper
-from utility import Season
+from dataManagement import WebScraper
+from utility import Season, LeagueHistory
+
+print(WebScraper)
+print(Season)
+print(LeagueHistory)
 
 LH = LeagueHistory("Premier League")
 
-for i in range(2020, 2024):
+for i in range(1888, 2024, 15):
     url = f"https://fbref.com/en/comps/9/{i}-{i+1}/schedule/{i}-{i+1}-Premier-League-Scores-and-Fixtures"
 
     webscraper = WebScraper(url)
@@ -13,12 +17,12 @@ for i in range(2020, 2024):
 
 
 seasonList = LH.seasonsHistory
-leagueHistoryDF = LH.concatenateHistoryOfLeague(seasonList)
-print(leagueHistoryDF)
+LH.concatenateHistoryOfLeague(seasonList)
+print(LH.getLeagueHistoryTable())
 
 #for season in LH.seasonsHistory:
 #    print(season)
-#    print(season.seasonMatchTable.head(20))
+#    print(season.seasonMatchTable.head(5))
 #    print("-----------------------------------------------------------------------------------------------")
 
 

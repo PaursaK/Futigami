@@ -24,7 +24,7 @@ class TestWebScraper(unittest.TestCase):
         self.scraper1 = WebScraper(url1)
         self.scraper2 = WebScraper(url2)
 
-    '''def test_get_page_header(self):
+    def test_get_page_header(self):
         # Test for successful extraction of the header
         header1 = self.scraper1.getPageHeader()
         header2 = self.scraper2.getPageHeader()
@@ -105,7 +105,7 @@ class TestWebScraper(unittest.TestCase):
         rows2 = self.scraper2.getTableRows("tbody", "tr")
         print(rows2[0].find_all("td"))
         self.assertEqual(len(rows2), 170)
-        self.assertEqual(rows2[1].find("td").text, "Sat")'''
+        self.assertEqual(rows2[1].find("td").text, "Sat")
 
 
     def test_initialize_table_columns(self):
@@ -128,13 +128,13 @@ class TestWebScraper(unittest.TestCase):
         self.assertEqual(dataDict1["date"][1], "2023-08-12")
         self.assertEqual(dataDict1["home_team"][2], "Everton")
 
-    '''def test_read_website_table_data(self):
+    def test_read_website_table_data(self):
         pass
         # Test reading table data and converting to dictionary
         dataDict = self.scraper1.readWebsiteTableData("tbody", "tr")
         print(dataDict)
         self.assertIsNotNone(dataDict)
-        self.assertEqual(len(dataDict["date"]), len(dataDict["home_team"]))'''
+        self.assertEqual(len(dataDict["date"]), len(dataDict["home_team"]))
         
 
 if __name__ == '__main__':
