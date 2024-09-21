@@ -3,7 +3,6 @@ import pandas as pd
 
 class Season:
     
-
     def __init__(self, seasonSummaryDictionary, dictionaryData):
         '''
         seasons constructor that builds a seasons object that holds data on the season year, country, league, and leading stat players

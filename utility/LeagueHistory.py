@@ -7,11 +7,21 @@ class LeagueHistory:
 
     def __init__(self, leagueName):
         self.leagueName = leagueName
+        self.leagueStartYear = None
         self.seasonsHistory = []
         self.leagueHistoryTable = None
 
     def addSeason(self, seasonObject):
         self.seasonsHistory.append(seasonObject)
+    
+    def getLeagueName(self):
+        return self.leagueName 
+    
+    def setLeagueStartYear(self, startYear):
+        self.leagueStartYear = startYear
+
+    def getLeagueStartYear(self):
+        return self.leagueStartYear
 
     def getLeagueHistoryTable(self):
         return self.leagueHistoryTable
@@ -19,19 +29,45 @@ class LeagueHistory:
     def setLeagueHistoryTable(self, df):
         self.leagueHistoryTable = df
 
+    def splitScoreLine(self, df):
+        '''helper method that adds two additional columns 'home_score' and 'away_score' to the pandas dataframe'''
+
+        # Replace en dash with hyphen
+        df['score'] = df['score'].str.replace('–', '-', regex=False)
+        
+        # Now split the score column
+        try:
+            df[['home_score', 'away_score']] = df['score'].str.split('-', expand=True)
+            
+            # Convert to integers
+            df['home_score'] = df['home_score'].astype(int)
+            df['away_score'] = df['away_score'].astype(int)
+        except Exception as e:
+            print("Error while splitting score column:", e)
+
+    def formatDate(self, df):
+
+        # Convert the 'date' column to datetime
+        df['date'] = pd.to_datetime(df['date'])
+
+
+
     def createSeasonObject(self, seasonSummaryData, fixtureTableDictionary):
         '''creates a new instance of a season given the summaryData and dictionary with all the table information scraped from the website'''
         newSeason = Season(seasonSummaryData, fixtureTableDictionary)
         self.addSeason(newSeason)
         return newSeason
     
-    def concatenateHistoryOfLeague (self, seasonObjectList):
-        '''function looks to take a list of season instances and combine their associated dataframes 
-        into a master dataframe that represents the leagues history'''
-        #columns we are interested in aggregating data for
+    def findEarliestStartYear(self, dateSeries):
+        '''helper to extract earliest date in the leagues history'''
+        if dateSeries is None or dateSeries.empty:
+            return None
         
+        earliest_date = dateSeries.min()
+        return earliest_date.year if pd.notna(earliest_date) else None
+
     def concatenateHistoryOfLeague(self, seasonObjectList):
-        
+        '''returns the concatenated version '''
         # Check if seasonObjectList is empty
         if not seasonObjectList:
             print("Empty Season List")
@@ -50,9 +86,21 @@ class LeagueHistory:
             else:
                 common_columns = combinedDF.columns.intersection(seasonDF.columns).tolist()
                 combinedDF = pd.merge(combinedDF, seasonDF, on=common_columns, how='outer')
-
+        
+        #clean up and adjust master dataframe and then set it for the league
+        combinedDF = combinedDF.drop_duplicates()
+        self.splitScoreLine(combinedDF)
+        self.formatDate(combinedDF)
         self.setLeagueHistoryTable(combinedDF)
-        return combinedDF.drop_duplicates()
+
+        #set league origin year
+        startOfLeague = self.findEarliestStartYear(combinedDF["date"])
+        self.setLeagueStartYear(startOfLeague)
+
+        return combinedDF
+    
+    def __str__(self):
+        return "League Name: " + self.getLeagueName() + "\n" + "Year Established: " + str(self.getLeagueStartYear())
 
 
 
