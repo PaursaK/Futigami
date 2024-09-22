@@ -14,8 +14,18 @@ class RequestProcessor:
         df = leagueHistoryObject.getLeagueHistoryTable()
 
         # If start year and/or end year not specified, return the entire history
-        if startYear is None or endYear is None:
+        if startYear is None and endYear is None:
             return df
+        
+        #if startYear not specified return everything earlier or equal to end year
+        elif startYear is None:
+            return df[(df["date"].dt.year <= endYear)]
+        
+        #if endYear not specified return everything equal to or later than startYear
+        elif endYear is None:
+            return df[(df["date"].dt.year >= startYear)]
+        
+
         
         return df[(df["date"].dt.year >= startYear) & (df["date"].dt.year <= endYear)]
 
