@@ -30,7 +30,7 @@ using data science packages and webscraping tools I gathered information from ht
 
 ## Technologies Used
 
-Python, Pandas, Plotly, Dash, BeautifulSoup, requests, re (regular expression), 
+Python, Pandas, Plotly, Dash, BeautifulSoup, requests, re (regular expression), numpy
 
 ## File Structure
 ```

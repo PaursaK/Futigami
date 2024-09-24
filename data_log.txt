@@ -1,0 +1,1608 @@
+Starting new log session
+Processing league: seriea
+Reading file: Serie-A_2007_2008.txt
+Successfully parsed Serie-A_2007_2008.txt
+Title: 2007-2008 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2002_2003.txt
+Successfully parsed Serie-A_2002_2003.txt
+Title: 2002-2003 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1998_1999.txt
+Successfully parsed Serie-A_1998_1999.txt
+Title: 1998-1999 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2003_2004.txt
+Successfully parsed Serie-A_2003_2004.txt
+Title: 2003-2004 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2015_2016.txt
+Successfully parsed Serie-A_2015_2016.txt
+Title: 2015-2016 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1996_1997.txt
+Successfully parsed Serie-A_1996_1997.txt
+Title: 1996-1997 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2009_2010.txt
+Successfully parsed Serie-A_2009_2010.txt
+Title: 2009-2010 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2014_2015.txt
+Successfully parsed Serie-A_2014_2015.txt
+Title: 2014-2015 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1999_2000.txt
+Successfully parsed Serie-A_1999_2000.txt
+Title: 1999-2000 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2022_2023.txt
+Successfully parsed Serie-A_2022_2023.txt
+Title: 2022-2023 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2004_2005.txt
+Successfully parsed Serie-A_2004_2005.txt
+Title: 2004-2005 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2013_2014.txt
+Successfully parsed Serie-A_2013_2014.txt
+Title: 2013-2014 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2005_2006.txt
+Successfully parsed Serie-A_2005_2006.txt
+Title: 2005-2006 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2023_2024.txt
+Successfully parsed Serie-A_2023_2024.txt
+Title: 2023-2024 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1990_1991.txt
+Successfully parsed Serie-A_1990_1991.txt
+Title: 1990-1991 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1988_1989.txt
+Successfully parsed Serie-A_1988_1989.txt
+Title: 1988-1989 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1991_1992.txt
+Successfully parsed Serie-A_1991_1992.txt
+Title: 1991-1992 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2012_2013.txt
+Successfully parsed Serie-A_2012_2013.txt
+Title: 2012-2013 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2017_2018.txt
+Successfully parsed Serie-A_2017_2018.txt
+Title: 2017-2018 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2019_2020.txt
+Successfully parsed Serie-A_2019_2020.txt
+Title: 2019-2020 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1989_1990.txt
+Successfully parsed Serie-A_1989_1990.txt
+Title: 1989-1990 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1994_1995.txt
+Successfully parsed Serie-A_1994_1995.txt
+Title: 1994-1995 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1995_1996.txt
+Successfully parsed Serie-A_1995_1996.txt
+Title: 1995-1996 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2016_2017.txt
+Successfully parsed Serie-A_2016_2017.txt
+Title: 2016-2017 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2000_2001.txt
+Successfully parsed Serie-A_2000_2001.txt
+Title: 2000-2001 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2018_2019.txt
+Successfully parsed Serie-A_2018_2019.txt
+Title: 2018-2019 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2001_2002.txt
+Successfully parsed Serie-A_2001_2002.txt
+Title: 2001-2002 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1997_1998.txt
+Successfully parsed Serie-A_1997_1998.txt
+Title: 1997-1998 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2011_2012.txt
+Successfully parsed Serie-A_2011_2012.txt
+Title: 2011-2012 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1992_1993.txt
+Successfully parsed Serie-A_1992_1993.txt
+Title: 1992-1993 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2008_2009.txt
+Successfully parsed Serie-A_2008_2009.txt
+Title: 2008-2009 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2010_2011.txt
+Successfully parsed Serie-A_2010_2011.txt
+Title: 2010-2011 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2006_2007.txt
+Successfully parsed Serie-A_2006_2007.txt
+Title: 2006-2007 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2020_2021.txt
+Successfully parsed Serie-A_2020_2021.txt
+Title: 2020-2021 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1993_1994.txt
+Successfully parsed Serie-A_1993_1994.txt
+Title: 1993-1994 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2021_2022.txt
+Successfully parsed Serie-A_2021_2022.txt
+Title: 2021-2022 Serie A Scores & Fixtures | FBref.com
+Processing league: premierleague
+Reading file: Premier-League_1953_1954.txt
+Successfully parsed Premier-League_1953_1954.txt
+Title: 1953-1954 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2000_2001.txt
+Successfully parsed Premier-League_2000_2001.txt
+Title: 2000-2001 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1923_1924.txt
+Successfully parsed Premier-League_1923_1924.txt
+Title: 1923-1924 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1935_1936.txt
+Successfully parsed Premier-League_1935_1936.txt
+Title: 1935-1936 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1962_1963.txt
+Successfully parsed Premier-League_1962_1963.txt
+Title: 1962-1963 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2018_2019.txt
+Successfully parsed Premier-League_2018_2019.txt
+Title: 2018-2019 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1912_1913.txt
+Successfully parsed Premier-League_1912_1913.txt
+Title: 1912-1913 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2001_2002.txt
+Successfully parsed Premier-League_2001_2002.txt
+Title: 2001-2002 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1982_1983.txt
+Successfully parsed Premier-League_1982_1983.txt
+Title: 1982-1983 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1929_1930.txt
+Successfully parsed Premier-League_1929_1930.txt
+Title: 1929-1930 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1934_1935.txt
+Successfully parsed Premier-League_1934_1935.txt
+Title: 1934-1935 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1967_1968.txt
+Successfully parsed Premier-League_1967_1968.txt
+Title: 1967-1968 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1917_1918.txt
+Successfully parsed Premier-League_1917_1918.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1987_1988.txt
+Successfully parsed Premier-League_1987_1988.txt
+Title: 1987-1988 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1927_1928.txt
+Successfully parsed Premier-League_1927_1928.txt
+Title: 1927-1928 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2019_2020.txt
+Successfully parsed Premier-League_2019_2020.txt
+Title: 2019-2020 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1957_1958.txt
+Successfully parsed Premier-League_1957_1958.txt
+Title: 1957-1958 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1891_1892.txt
+Successfully parsed Premier-League_1891_1892.txt
+Title: 1891-1892 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1888_1889.txt
+Successfully parsed Premier-League_1888_1889.txt
+Title: 1888-1889 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1969_1970.txt
+Successfully parsed Premier-League_1969_1970.txt
+Title: 1969-1970 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1904_1905.txt
+Successfully parsed Premier-League_1904_1905.txt
+Title: 1904-1905 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1974_1975.txt
+Successfully parsed Premier-League_1974_1975.txt
+Title: 1974-1975 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1989_1990.txt
+Successfully parsed Premier-League_1989_1990.txt
+Title: 1989-1990 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1994_1995.txt
+Successfully parsed Premier-League_1994_1995.txt
+Title: 1994-1995 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1922_1923.txt
+Successfully parsed Premier-League_1922_1923.txt
+Title: 1922-1923 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1952_1953.txt
+Successfully parsed Premier-League_1952_1953.txt
+Title: 1952-1953 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1890_1891.txt
+Successfully parsed Premier-League_1890_1891.txt
+Title: 1890-1891 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1905_1906.txt
+Successfully parsed Premier-League_1905_1906.txt
+Title: 1905-1906 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1975_1976.txt
+Successfully parsed Premier-League_1975_1976.txt
+Title: 1975-1976 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2016_2017.txt
+Successfully parsed Premier-League_2016_2017.txt
+Title: 2016-2017 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1995_1996.txt
+Successfully parsed Premier-League_1995_1996.txt
+Title: 1995-1996 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1983_1984.txt
+Successfully parsed Premier-League_1983_1984.txt
+Title: 1983-1984 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1913_1914.txt
+Successfully parsed Premier-League_1913_1914.txt
+Title: 1913-1914 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1963_1964.txt
+Successfully parsed Premier-League_1963_1964.txt
+Title: 1963-1964 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1985_1986.txt
+Successfully parsed Premier-League_1985_1986.txt
+Title: 1985-1986 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2006_2007.txt
+Successfully parsed Premier-League_2006_2007.txt
+Title: 2006-2007 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1965_1966.txt
+Successfully parsed Premier-League_1965_1966.txt
+Title: 1965-1966 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1915_1916.txt
+Successfully parsed Premier-League_1915_1916.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2020_2021.txt
+Successfully parsed Premier-League_2020_2021.txt
+Title: 2020-2021 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1973_1974.txt
+Successfully parsed Premier-League_1973_1974.txt
+Title: 1973-1974 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1903_1904.txt
+Successfully parsed Premier-League_1903_1904.txt
+Title: 1903-1904 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1993_1994.txt
+Successfully parsed Premier-League_1993_1994.txt
+Title: 1993-1994 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1984_1985.txt
+Successfully parsed Premier-League_1984_1985.txt
+Title: 1984-1985 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1964_1965.txt
+Successfully parsed Premier-League_1964_1965.txt
+Title: 1964-1965 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1909_1910.txt
+Successfully parsed Premier-League_1909_1910.txt
+Title: 1909-1910 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1914_1915.txt
+Successfully parsed Premier-League_1914_1915.txt
+Title: 1914-1915 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2021_2022.txt
+Successfully parsed Premier-League_2021_2022.txt
+Title: 2021-2022 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1932_1933.txt
+Successfully parsed Premier-League_1932_1933.txt
+Title: 1932-1933 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1947_1948.txt
+Successfully parsed Premier-League_1947_1948.txt
+Title: 1947-1948 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1937_1938.txt
+Successfully parsed Premier-League_1937_1938.txt
+Title: 1937-1938 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1898_1899.txt
+Successfully parsed Premier-League_1898_1899.txt
+Title: 1898-1899 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1997_1998.txt
+Successfully parsed Premier-League_1997_1998.txt
+Title: 1997-1998 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1907_1908.txt
+Successfully parsed Premier-League_1907_1908.txt
+Title: 1907-1908 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1977_1978.txt
+Successfully parsed Premier-League_1977_1978.txt
+Title: 1977-1978 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1992_1993.txt
+Successfully parsed Premier-League_1992_1993.txt
+Title: 1992-1993 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2011_2012.txt
+Successfully parsed Premier-League_2011_2012.txt
+Title: 2011-2012 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1902_1903.txt
+Successfully parsed Premier-League_1902_1903.txt
+Title: 1902-1903 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2008_2009.txt
+Successfully parsed Premier-League_2008_2009.txt
+Title: 2008-2009 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1972_1973.txt
+Successfully parsed Premier-League_1972_1973.txt
+Title: 1972-1973 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1924_1925.txt
+Successfully parsed Premier-League_1924_1925.txt
+Title: 1924-1925 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1949_1950.txt
+Successfully parsed Premier-League_1949_1950.txt
+Title: 1949-1950 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1954_1955.txt
+Successfully parsed Premier-League_1954_1955.txt
+Title: 1954-1955 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1896_1897.txt
+Successfully parsed Premier-League_1896_1897.txt
+Title: 1896-1897 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1933_1934.txt
+Successfully parsed Premier-League_1933_1934.txt
+Title: 1933-1934 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2010_2011.txt
+Successfully parsed Premier-League_2010_2011.txt
+Title: 2010-2011 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1899_1900.txt
+Successfully parsed Premier-League_1899_1900.txt
+Title: 1899-1900 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1925_1926.txt
+Successfully parsed Premier-League_1925_1926.txt
+Title: 1925-1926 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1955_1956.txt
+Successfully parsed Premier-League_1955_1956.txt
+Title: 1955-1956 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1920_1921.txt
+Successfully parsed Premier-League_1920_1921.txt
+Title: 1920-1921 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1950_1951.txt
+Successfully parsed Premier-League_1950_1951.txt
+Title: 1950-1951 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2003_2004.txt
+Successfully parsed Premier-League_2003_2004.txt
+Title: 2003-2004 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1996_1997.txt
+Successfully parsed Premier-League_1996_1997.txt
+Title: 1996-1997 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2015_2016.txt
+Successfully parsed Premier-League_2015_2016.txt
+Title: 2015-2016 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1906_1907.txt
+Successfully parsed Premier-League_1906_1907.txt
+Title: 1906-1907 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1976_1977.txt
+Successfully parsed Premier-League_1976_1977.txt
+Title: 1976-1977 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1979_1980.txt
+Successfully parsed Premier-League_1979_1980.txt
+Title: 1979-1980 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1938_1939.txt
+Successfully parsed Premier-League_1938_1939.txt
+Title: 1938-1939 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1948_1949.txt
+Successfully parsed Premier-League_1948_1949.txt
+Title: 1948-1949 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1921_1922.txt
+Successfully parsed Premier-League_1921_1922.txt
+Title: 1921-1922 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1951_1952.txt
+Successfully parsed Premier-League_1951_1952.txt
+Title: 1951-1952 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2009_2010.txt
+Successfully parsed Premier-League_2009_2010.txt
+Title: 2009-2010 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2014_2015.txt
+Successfully parsed Premier-League_2014_2015.txt
+Title: 2014-2015 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1897_1898.txt
+Successfully parsed Premier-League_1897_1898.txt
+Title: 1897-1898 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1892_1893.txt
+Successfully parsed Premier-League_1892_1893.txt
+Title: 1892-1893 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2007_2008.txt
+Successfully parsed Premier-League_2007_2008.txt
+Title: 2007-2008 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1978_1979.txt
+Successfully parsed Premier-League_1978_1979.txt
+Title: 1978-1979 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1981_1982.txt
+Successfully parsed Premier-League_1981_1982.txt
+Title: 1981-1982 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2002_2003.txt
+Successfully parsed Premier-League_2002_2003.txt
+Title: 2002-2003 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1908_1909.txt
+Successfully parsed Premier-League_1908_1909.txt
+Title: 1908-1909 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1998_1999.txt
+Successfully parsed Premier-League_1998_1999.txt
+Title: 1998-1999 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1961_1962.txt
+Successfully parsed Premier-League_1961_1962.txt
+Title: 1961-1962 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1911_1912.txt
+Successfully parsed Premier-League_1911_1912.txt
+Title: 1911-1912 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1893_1894.txt
+Successfully parsed Premier-League_1893_1894.txt
+Title: 1893-1894 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1946_1947.txt
+Successfully parsed Premier-League_1946_1947.txt
+Title: 1946-1947 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1936_1937.txt
+Successfully parsed Premier-League_1936_1937.txt
+Title: 1936-1937 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1980_1981.txt
+Successfully parsed Premier-League_1980_1981.txt
+Title: 1980-1981 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1960_1961.txt
+Successfully parsed Premier-League_1960_1961.txt
+Title: 1960-1961 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1910_1911.txt
+Successfully parsed Premier-League_1910_1911.txt
+Title: 1910-1911 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1926_1927.txt
+Successfully parsed Premier-League_1926_1927.txt
+Title: 1926-1927 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1956_1957.txt
+Successfully parsed Premier-League_1956_1957.txt
+Title: 1956-1957 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1900_1901.txt
+Successfully parsed Premier-League_1900_1901.txt
+Title: 1900-1901 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2023_2024.txt
+Successfully parsed Premier-League_2023_2024.txt
+Title: 2023-2024 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1970_1971.txt
+Successfully parsed Premier-League_1970_1971.txt
+Title: 1970-1971 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1990_1991.txt
+Successfully parsed Premier-League_1990_1991.txt
+Title: 1990-1991 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1895_1896.txt
+Successfully parsed Premier-League_1895_1896.txt
+Title: 1895-1896 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1901_1902.txt
+Successfully parsed Premier-League_1901_1902.txt
+Title: 1901-1902 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1971_1972.txt
+Successfully parsed Premier-League_1971_1972.txt
+Title: 1971-1972 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1988_1989.txt
+Successfully parsed Premier-League_1988_1989.txt
+Title: 1988-1989 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1918_1919.txt
+Successfully parsed Premier-League_1918_1919.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2012_2013.txt
+Successfully parsed Premier-League_2012_2013.txt
+Title: 2012-2013 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1991_1992.txt
+Successfully parsed Premier-League_1991_1992.txt
+Title: 1991-1992 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1968_1969.txt
+Successfully parsed Premier-League_1968_1969.txt
+Title: 1968-1969 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1889_1890.txt
+Successfully parsed Premier-League_1889_1890.txt
+Title: 1889-1890 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1894_1895.txt
+Successfully parsed Premier-League_1894_1895.txt
+Title: 1894-1895 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1959_1960.txt
+Successfully parsed Premier-League_1959_1960.txt
+Title: 1959-1960 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2017_2018.txt
+Successfully parsed Premier-League_2017_2018.txt
+Title: 2017-2018 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1999_2000.txt
+Successfully parsed Premier-League_1999_2000.txt
+Title: 1999-2000 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1919_1920.txt
+Successfully parsed Premier-League_1919_1920.txt
+Title: 1919-1920 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1931_1932.txt
+Successfully parsed Premier-League_1931_1932.txt
+Title: 1931-1932 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2022_2023.txt
+Successfully parsed Premier-League_2022_2023.txt
+Title: 2022-2023 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1958_1959.txt
+Successfully parsed Premier-League_1958_1959.txt
+Title: 1958-1959 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1928_1929.txt
+Successfully parsed Premier-League_1928_1929.txt
+Title: 1928-1929 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2004_2005.txt
+Successfully parsed Premier-League_2004_2005.txt
+Title: 2004-2005 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2013_2014.txt
+Successfully parsed Premier-League_2013_2014.txt
+Title: 2013-2014 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1930_1931.txt
+Successfully parsed Premier-League_1930_1931.txt
+Title: 1930-1931 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1966_1967.txt
+Successfully parsed Premier-League_1966_1967.txt
+Title: 1966-1967 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1916_1917.txt
+Successfully parsed Premier-League_1916_1917.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2005_2006.txt
+Successfully parsed Premier-League_2005_2006.txt
+Title: 2005-2006 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1986_1987.txt
+Successfully parsed Premier-League_1986_1987.txt
+Title: 1986-1987 First Division Scores & Fixtures | FBref.com
+Processing league: ligue1
+Reading file: Ligue-1_1999_2000.txt
+Successfully parsed Ligue-1_1999_2000.txt
+Title: 1999-2000 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2022_2023.txt
+Successfully parsed Ligue-1_2022_2023.txt
+Title: 2022-2023 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2004_2005.txt
+Successfully parsed Ligue-1_2004_2005.txt
+Title: 2004-2005 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2013_2014.txt
+Successfully parsed Ligue-1_2013_2014.txt
+Title: 2013-2014 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2005_2006.txt
+Successfully parsed Ligue-1_2005_2006.txt
+Title: 2005-2006 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2023_2024.txt
+Successfully parsed Ligue-1_2023_2024.txt
+Title: 2023-2024 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2012_2013.txt
+Successfully parsed Ligue-1_2012_2013.txt
+Title: 2012-2013 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2017_2018.txt
+Successfully parsed Ligue-1_2017_2018.txt
+Title: 2017-2018 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2007_2008.txt
+Successfully parsed Ligue-1_2007_2008.txt
+Title: 2007-2008 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2002_2003.txt
+Successfully parsed Ligue-1_2002_2003.txt
+Title: 2002-2003 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1998_1999.txt
+Successfully parsed Ligue-1_1998_1999.txt
+Title: 1998-1999 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2003_2004.txt
+Successfully parsed Ligue-1_2003_2004.txt
+Title: 2003-2004 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2015_2016.txt
+Successfully parsed Ligue-1_2015_2016.txt
+Title: 2015-2016 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1996_1997.txt
+Successfully parsed Ligue-1_1996_1997.txt
+Title: 1996-1997 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2014_2015.txt
+Successfully parsed Ligue-1_2014_2015.txt
+Title: 2014-2015 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2009_2010.txt
+Successfully parsed Ligue-1_2009_2010.txt
+Title: 2009-2010 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1997_1998.txt
+Successfully parsed Ligue-1_1997_1998.txt
+Title: 1997-1998 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2011_2012.txt
+Successfully parsed Ligue-1_2011_2012.txt
+Title: 2011-2012 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2008_2009.txt
+Successfully parsed Ligue-1_2008_2009.txt
+Title: 2008-2009 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2010_2011.txt
+Successfully parsed Ligue-1_2010_2011.txt
+Title: 2010-2011 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2006_2007.txt
+Successfully parsed Ligue-1_2006_2007.txt
+Title: 2006-2007 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2020_2021.txt
+Successfully parsed Ligue-1_2020_2021.txt
+Title: 2020-2021 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2021_2022.txt
+Successfully parsed Ligue-1_2021_2022.txt
+Title: 2021-2022 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2019_2020.txt
+Successfully parsed Ligue-1_2019_2020.txt
+Title: 2019-2020 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1995_1996.txt
+Successfully parsed Ligue-1_1995_1996.txt
+Title: 1995-1996 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2016_2017.txt
+Successfully parsed Ligue-1_2016_2017.txt
+Title: 2016-2017 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2000_2001.txt
+Successfully parsed Ligue-1_2000_2001.txt
+Title: 2000-2001 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2018_2019.txt
+Successfully parsed Ligue-1_2018_2019.txt
+Title: 2018-2019 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2001_2002.txt
+Successfully parsed Ligue-1_2001_2002.txt
+Title: 2001-2002 Division 1 Scores & Fixtures | FBref.com
+Processing league: laliga
+Reading file: La-Liga_2003_2004.txt
+Successfully parsed La-Liga_2003_2004.txt
+Title: 2003-2004 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2015_2016.txt
+Successfully parsed La-Liga_2015_2016.txt
+Title: 2015-2016 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1996_1997.txt
+Successfully parsed La-Liga_1996_1997.txt
+Title: 1996-1997 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2014_2015.txt
+Successfully parsed La-Liga_2014_2015.txt
+Title: 2014-2015 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2009_2010.txt
+Successfully parsed La-Liga_2009_2010.txt
+Title: 2009-2010 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2002_2003.txt
+Successfully parsed La-Liga_2002_2003.txt
+Title: 2002-2003 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1998_1999.txt
+Successfully parsed La-Liga_1998_1999.txt
+Title: 1998-1999 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2007_2008.txt
+Successfully parsed La-Liga_2007_2008.txt
+Title: 2007-2008 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2023_2024.txt
+Successfully parsed La-Liga_2023_2024.txt
+Title: 2023-2024 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1990_1991.txt
+Successfully parsed La-Liga_1990_1991.txt
+Title: 1990-1991 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2017_2018.txt
+Successfully parsed La-Liga_2017_2018.txt
+Title: 2017-2018 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1988_1989.txt
+Successfully parsed La-Liga_1988_1989.txt
+Title: 1988-1989 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1991_1992.txt
+Successfully parsed La-Liga_1991_1992.txt
+Title: 1991-1992 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2012_2013.txt
+Successfully parsed La-Liga_2012_2013.txt
+Title: 2012-2013 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2022_2023.txt
+Successfully parsed La-Liga_2022_2023.txt
+Title: 2022-2023 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2004_2005.txt
+Successfully parsed La-Liga_2004_2005.txt
+Title: 2004-2005 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1999_2000.txt
+Successfully parsed La-Liga_1999_2000.txt
+Title: 1999-2000 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2013_2014.txt
+Successfully parsed La-Liga_2013_2014.txt
+Title: 2013-2014 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2005_2006.txt
+Successfully parsed La-Liga_2005_2006.txt
+Title: 2005-2006 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2000_2001.txt
+Successfully parsed La-Liga_2000_2001.txt
+Title: 2000-2001 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2018_2019.txt
+Successfully parsed La-Liga_2018_2019.txt
+Title: 2018-2019 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2001_2002.txt
+Successfully parsed La-Liga_2001_2002.txt
+Title: 2001-2002 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1994_1995.txt
+Successfully parsed La-Liga_1994_1995.txt
+Title: 1994-1995 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1989_1990.txt
+Successfully parsed La-Liga_1989_1990.txt
+Title: 1989-1990 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2019_2020.txt
+Successfully parsed La-Liga_2019_2020.txt
+Title: 2019-2020 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1995_1996.txt
+Successfully parsed La-Liga_1995_1996.txt
+Title: 1995-1996 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2016_2017.txt
+Successfully parsed La-Liga_2016_2017.txt
+Title: 2016-2017 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2006_2007.txt
+Successfully parsed La-Liga_2006_2007.txt
+Title: 2006-2007 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2020_2021.txt
+Successfully parsed La-Liga_2020_2021.txt
+Title: 2020-2021 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1993_1994.txt
+Successfully parsed La-Liga_1993_1994.txt
+Title: 1993-1994 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2021_2022.txt
+Successfully parsed La-Liga_2021_2022.txt
+Title: 2021-2022 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2011_2012.txt
+Successfully parsed La-Liga_2011_2012.txt
+Title: 2011-2012 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1992_1993.txt
+Successfully parsed La-Liga_1992_1993.txt
+Title: 1992-1993 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2008_2009.txt
+Successfully parsed La-Liga_2008_2009.txt
+Title: 2008-2009 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1997_1998.txt
+Successfully parsed La-Liga_1997_1998.txt
+Title: 1997-1998 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2010_2011.txt
+Successfully parsed La-Liga_2010_2011.txt
+Title: 2010-2011 La Liga Scores & Fixtures | FBref.com
+Processing league: bundesliga
+Reading file: Bundesliga_2005_2006.txt
+Successfully parsed Bundesliga_2005_2006.txt
+Title: 2005-2006 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2013_2014.txt
+Successfully parsed Bundesliga_2013_2014.txt
+Title: 2013-2014 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2004_2005.txt
+Successfully parsed Bundesliga_2004_2005.txt
+Title: 2004-2005 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2022_2023.txt
+Successfully parsed Bundesliga_2022_2023.txt
+Title: 2022-2023 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1999_2000.txt
+Successfully parsed Bundesliga_1999_2000.txt
+Title: 1999-2000 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2017_2018.txt
+Successfully parsed Bundesliga_2017_2018.txt
+Title: 2017-2018 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2012_2013.txt
+Successfully parsed Bundesliga_2012_2013.txt
+Title: 2012-2013 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1991_1992.txt
+Successfully parsed Bundesliga_1991_1992.txt
+Title: 1991-1992 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1988_1989.txt
+Successfully parsed Bundesliga_1988_1989.txt
+Title: 1988-1989 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1990_1991.txt
+Successfully parsed Bundesliga_1990_1991.txt
+Title: 1990-1991 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2023_2024.txt
+Successfully parsed Bundesliga_2023_2024.txt
+Title: 2023-2024 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1998_1999.txt
+Successfully parsed Bundesliga_1998_1999.txt
+Title: 1998-1999 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2002_2003.txt
+Successfully parsed Bundesliga_2002_2003.txt
+Title: 2002-2003 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2007_2008.txt
+Successfully parsed Bundesliga_2007_2008.txt
+Title: 2007-2008 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2014_2015.txt
+Successfully parsed Bundesliga_2014_2015.txt
+Title: 2014-2015 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2009_2010.txt
+Successfully parsed Bundesliga_2009_2010.txt
+Title: 2009-2010 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1996_1997.txt
+Successfully parsed Bundesliga_1996_1997.txt
+Title: 1996-1997 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2015_2016.txt
+Successfully parsed Bundesliga_2015_2016.txt
+Title: 2015-2016 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2003_2004.txt
+Successfully parsed Bundesliga_2003_2004.txt
+Title: 2003-2004 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2010_2011.txt
+Successfully parsed Bundesliga_2010_2011.txt
+Title: 2010-2011 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2008_2009.txt
+Successfully parsed Bundesliga_2008_2009.txt
+Title: 2008-2009 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1992_1993.txt
+Successfully parsed Bundesliga_1992_1993.txt
+Title: 1992-1993 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2011_2012.txt
+Successfully parsed Bundesliga_2011_2012.txt
+Title: 2011-2012 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1997_1998.txt
+Successfully parsed Bundesliga_1997_1998.txt
+Title: 1997-1998 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2021_2022.txt
+Successfully parsed Bundesliga_2021_2022.txt
+Title: 2021-2022 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1993_1994.txt
+Successfully parsed Bundesliga_1993_1994.txt
+Title: 1993-1994 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2020_2021.txt
+Successfully parsed Bundesliga_2020_2021.txt
+Title: 2020-2021 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2006_2007.txt
+Successfully parsed Bundesliga_2006_2007.txt
+Title: 2006-2007 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2016_2017.txt
+Successfully parsed Bundesliga_2016_2017.txt
+Title: 2016-2017 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1995_1996.txt
+Successfully parsed Bundesliga_1995_1996.txt
+Title: 1995-1996 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1994_1995.txt
+Successfully parsed Bundesliga_1994_1995.txt
+Title: 1994-1995 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1989_1990.txt
+Successfully parsed Bundesliga_1989_1990.txt
+Title: 1989-1990 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2019_2020.txt
+Successfully parsed Bundesliga_2019_2020.txt
+Title: 2019-2020 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2001_2002.txt
+Successfully parsed Bundesliga_2001_2002.txt
+Title: 2001-2002 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2018_2019.txt
+Successfully parsed Bundesliga_2018_2019.txt
+Title: 2018-2019 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2000_2001.txt
+Successfully parsed Bundesliga_2000_2001.txt
+Title: 2000-2001 Bundesliga Scores & Fixtures | FBref.com
+Starting new log session
+Processing league: seriea
+Reading file: Serie-A_2007_2008.txt
+Successfully parsed Serie-A_2007_2008.txt
+Title: 2007-2008 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2002_2003.txt
+Successfully parsed Serie-A_2002_2003.txt
+Title: 2002-2003 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1998_1999.txt
+Successfully parsed Serie-A_1998_1999.txt
+Title: 1998-1999 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2003_2004.txt
+Successfully parsed Serie-A_2003_2004.txt
+Title: 2003-2004 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2015_2016.txt
+Successfully parsed Serie-A_2015_2016.txt
+Title: 2015-2016 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1996_1997.txt
+Successfully parsed Serie-A_1996_1997.txt
+Title: 1996-1997 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2009_2010.txt
+Successfully parsed Serie-A_2009_2010.txt
+Title: 2009-2010 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2014_2015.txt
+Successfully parsed Serie-A_2014_2015.txt
+Title: 2014-2015 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1999_2000.txt
+Successfully parsed Serie-A_1999_2000.txt
+Title: 1999-2000 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2022_2023.txt
+Successfully parsed Serie-A_2022_2023.txt
+Title: 2022-2023 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2004_2005.txt
+Successfully parsed Serie-A_2004_2005.txt
+Title: 2004-2005 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2013_2014.txt
+Successfully parsed Serie-A_2013_2014.txt
+Title: 2013-2014 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2005_2006.txt
+Successfully parsed Serie-A_2005_2006.txt
+Title: 2005-2006 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2023_2024.txt
+Successfully parsed Serie-A_2023_2024.txt
+Title: 2023-2024 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1990_1991.txt
+Successfully parsed Serie-A_1990_1991.txt
+Title: 1990-1991 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1988_1989.txt
+Successfully parsed Serie-A_1988_1989.txt
+Title: 1988-1989 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1991_1992.txt
+Successfully parsed Serie-A_1991_1992.txt
+Title: 1991-1992 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2012_2013.txt
+Successfully parsed Serie-A_2012_2013.txt
+Title: 2012-2013 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2017_2018.txt
+Successfully parsed Serie-A_2017_2018.txt
+Title: 2017-2018 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2019_2020.txt
+Successfully parsed Serie-A_2019_2020.txt
+Title: 2019-2020 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1989_1990.txt
+Successfully parsed Serie-A_1989_1990.txt
+Title: 1989-1990 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1994_1995.txt
+Successfully parsed Serie-A_1994_1995.txt
+Title: 1994-1995 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1995_1996.txt
+Successfully parsed Serie-A_1995_1996.txt
+Title: 1995-1996 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2016_2017.txt
+Successfully parsed Serie-A_2016_2017.txt
+Title: 2016-2017 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2000_2001.txt
+Successfully parsed Serie-A_2000_2001.txt
+Title: 2000-2001 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2018_2019.txt
+Successfully parsed Serie-A_2018_2019.txt
+Title: 2018-2019 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2001_2002.txt
+Successfully parsed Serie-A_2001_2002.txt
+Title: 2001-2002 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1997_1998.txt
+Successfully parsed Serie-A_1997_1998.txt
+Title: 1997-1998 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2011_2012.txt
+Successfully parsed Serie-A_2011_2012.txt
+Title: 2011-2012 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1992_1993.txt
+Successfully parsed Serie-A_1992_1993.txt
+Title: 1992-1993 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2008_2009.txt
+Successfully parsed Serie-A_2008_2009.txt
+Title: 2008-2009 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2010_2011.txt
+Successfully parsed Serie-A_2010_2011.txt
+Title: 2010-2011 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2006_2007.txt
+Successfully parsed Serie-A_2006_2007.txt
+Title: 2006-2007 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2020_2021.txt
+Successfully parsed Serie-A_2020_2021.txt
+Title: 2020-2021 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_1993_1994.txt
+Successfully parsed Serie-A_1993_1994.txt
+Title: 1993-1994 Serie A Scores & Fixtures | FBref.com
+Reading file: Serie-A_2021_2022.txt
+Successfully parsed Serie-A_2021_2022.txt
+Title: 2021-2022 Serie A Scores & Fixtures | FBref.com
+Processing league: premierleague
+Reading file: Premier-League_1953_1954.txt
+Successfully parsed Premier-League_1953_1954.txt
+Title: 1953-1954 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2000_2001.txt
+Successfully parsed Premier-League_2000_2001.txt
+Title: 2000-2001 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1923_1924.txt
+Successfully parsed Premier-League_1923_1924.txt
+Title: 1923-1924 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1935_1936.txt
+Successfully parsed Premier-League_1935_1936.txt
+Title: 1935-1936 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1962_1963.txt
+Successfully parsed Premier-League_1962_1963.txt
+Title: 1962-1963 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2018_2019.txt
+Successfully parsed Premier-League_2018_2019.txt
+Title: 2018-2019 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1912_1913.txt
+Successfully parsed Premier-League_1912_1913.txt
+Title: 1912-1913 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2001_2002.txt
+Successfully parsed Premier-League_2001_2002.txt
+Title: 2001-2002 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1982_1983.txt
+Successfully parsed Premier-League_1982_1983.txt
+Title: 1982-1983 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1929_1930.txt
+Successfully parsed Premier-League_1929_1930.txt
+Title: 1929-1930 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1934_1935.txt
+Successfully parsed Premier-League_1934_1935.txt
+Title: 1934-1935 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1967_1968.txt
+Successfully parsed Premier-League_1967_1968.txt
+Title: 1967-1968 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1917_1918.txt
+Successfully parsed Premier-League_1917_1918.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1987_1988.txt
+Successfully parsed Premier-League_1987_1988.txt
+Title: 1987-1988 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1927_1928.txt
+Successfully parsed Premier-League_1927_1928.txt
+Title: 1927-1928 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2019_2020.txt
+Successfully parsed Premier-League_2019_2020.txt
+Title: 2019-2020 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1957_1958.txt
+Successfully parsed Premier-League_1957_1958.txt
+Title: 1957-1958 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1891_1892.txt
+Successfully parsed Premier-League_1891_1892.txt
+Title: 1891-1892 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1888_1889.txt
+Successfully parsed Premier-League_1888_1889.txt
+Title: 1888-1889 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1969_1970.txt
+Successfully parsed Premier-League_1969_1970.txt
+Title: 1969-1970 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1904_1905.txt
+Successfully parsed Premier-League_1904_1905.txt
+Title: 1904-1905 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1974_1975.txt
+Successfully parsed Premier-League_1974_1975.txt
+Title: 1974-1975 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1989_1990.txt
+Successfully parsed Premier-League_1989_1990.txt
+Title: 1989-1990 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1994_1995.txt
+Successfully parsed Premier-League_1994_1995.txt
+Title: 1994-1995 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1922_1923.txt
+Successfully parsed Premier-League_1922_1923.txt
+Title: 1922-1923 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1952_1953.txt
+Successfully parsed Premier-League_1952_1953.txt
+Title: 1952-1953 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1890_1891.txt
+Successfully parsed Premier-League_1890_1891.txt
+Title: 1890-1891 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1905_1906.txt
+Successfully parsed Premier-League_1905_1906.txt
+Title: 1905-1906 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1975_1976.txt
+Successfully parsed Premier-League_1975_1976.txt
+Title: 1975-1976 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2016_2017.txt
+Successfully parsed Premier-League_2016_2017.txt
+Title: 2016-2017 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1995_1996.txt
+Successfully parsed Premier-League_1995_1996.txt
+Title: 1995-1996 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1983_1984.txt
+Successfully parsed Premier-League_1983_1984.txt
+Title: 1983-1984 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1913_1914.txt
+Successfully parsed Premier-League_1913_1914.txt
+Title: 1913-1914 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1963_1964.txt
+Successfully parsed Premier-League_1963_1964.txt
+Title: 1963-1964 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1985_1986.txt
+Successfully parsed Premier-League_1985_1986.txt
+Title: 1985-1986 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2006_2007.txt
+Successfully parsed Premier-League_2006_2007.txt
+Title: 2006-2007 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1965_1966.txt
+Successfully parsed Premier-League_1965_1966.txt
+Title: 1965-1966 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1915_1916.txt
+Successfully parsed Premier-League_1915_1916.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2020_2021.txt
+Successfully parsed Premier-League_2020_2021.txt
+Title: 2020-2021 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1973_1974.txt
+Successfully parsed Premier-League_1973_1974.txt
+Title: 1973-1974 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1903_1904.txt
+Successfully parsed Premier-League_1903_1904.txt
+Title: 1903-1904 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1993_1994.txt
+Successfully parsed Premier-League_1993_1994.txt
+Title: 1993-1994 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1984_1985.txt
+Successfully parsed Premier-League_1984_1985.txt
+Title: 1984-1985 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1964_1965.txt
+Successfully parsed Premier-League_1964_1965.txt
+Title: 1964-1965 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1909_1910.txt
+Successfully parsed Premier-League_1909_1910.txt
+Title: 1909-1910 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1914_1915.txt
+Successfully parsed Premier-League_1914_1915.txt
+Title: 1914-1915 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2021_2022.txt
+Successfully parsed Premier-League_2021_2022.txt
+Title: 2021-2022 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1932_1933.txt
+Successfully parsed Premier-League_1932_1933.txt
+Title: 1932-1933 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1947_1948.txt
+Successfully parsed Premier-League_1947_1948.txt
+Title: 1947-1948 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1937_1938.txt
+Successfully parsed Premier-League_1937_1938.txt
+Title: 1937-1938 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1898_1899.txt
+Successfully parsed Premier-League_1898_1899.txt
+Title: 1898-1899 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1997_1998.txt
+Successfully parsed Premier-League_1997_1998.txt
+Title: 1997-1998 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1907_1908.txt
+Successfully parsed Premier-League_1907_1908.txt
+Title: 1907-1908 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1977_1978.txt
+Successfully parsed Premier-League_1977_1978.txt
+Title: 1977-1978 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1992_1993.txt
+Successfully parsed Premier-League_1992_1993.txt
+Title: 1992-1993 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2011_2012.txt
+Successfully parsed Premier-League_2011_2012.txt
+Title: 2011-2012 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1902_1903.txt
+Successfully parsed Premier-League_1902_1903.txt
+Title: 1902-1903 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2008_2009.txt
+Successfully parsed Premier-League_2008_2009.txt
+Title: 2008-2009 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1972_1973.txt
+Successfully parsed Premier-League_1972_1973.txt
+Title: 1972-1973 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1924_1925.txt
+Successfully parsed Premier-League_1924_1925.txt
+Title: 1924-1925 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1949_1950.txt
+Successfully parsed Premier-League_1949_1950.txt
+Title: 1949-1950 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1954_1955.txt
+Successfully parsed Premier-League_1954_1955.txt
+Title: 1954-1955 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1896_1897.txt
+Successfully parsed Premier-League_1896_1897.txt
+Title: 1896-1897 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1933_1934.txt
+Successfully parsed Premier-League_1933_1934.txt
+Title: 1933-1934 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2010_2011.txt
+Successfully parsed Premier-League_2010_2011.txt
+Title: 2010-2011 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1899_1900.txt
+Successfully parsed Premier-League_1899_1900.txt
+Title: 1899-1900 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1925_1926.txt
+Successfully parsed Premier-League_1925_1926.txt
+Title: 1925-1926 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1955_1956.txt
+Successfully parsed Premier-League_1955_1956.txt
+Title: 1955-1956 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1920_1921.txt
+Successfully parsed Premier-League_1920_1921.txt
+Title: 1920-1921 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1950_1951.txt
+Successfully parsed Premier-League_1950_1951.txt
+Title: 1950-1951 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2003_2004.txt
+Successfully parsed Premier-League_2003_2004.txt
+Title: 2003-2004 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1996_1997.txt
+Successfully parsed Premier-League_1996_1997.txt
+Title: 1996-1997 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2015_2016.txt
+Successfully parsed Premier-League_2015_2016.txt
+Title: 2015-2016 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1906_1907.txt
+Successfully parsed Premier-League_1906_1907.txt
+Title: 1906-1907 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1976_1977.txt
+Successfully parsed Premier-League_1976_1977.txt
+Title: 1976-1977 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1979_1980.txt
+Successfully parsed Premier-League_1979_1980.txt
+Title: 1979-1980 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1938_1939.txt
+Successfully parsed Premier-League_1938_1939.txt
+Title: 1938-1939 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1948_1949.txt
+Successfully parsed Premier-League_1948_1949.txt
+Title: 1948-1949 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1921_1922.txt
+Successfully parsed Premier-League_1921_1922.txt
+Title: 1921-1922 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1951_1952.txt
+Successfully parsed Premier-League_1951_1952.txt
+Title: 1951-1952 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2009_2010.txt
+Successfully parsed Premier-League_2009_2010.txt
+Title: 2009-2010 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2014_2015.txt
+Successfully parsed Premier-League_2014_2015.txt
+Title: 2014-2015 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1897_1898.txt
+Successfully parsed Premier-League_1897_1898.txt
+Title: 1897-1898 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1892_1893.txt
+Successfully parsed Premier-League_1892_1893.txt
+Title: 1892-1893 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2007_2008.txt
+Successfully parsed Premier-League_2007_2008.txt
+Title: 2007-2008 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1978_1979.txt
+Successfully parsed Premier-League_1978_1979.txt
+Title: 1978-1979 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1981_1982.txt
+Successfully parsed Premier-League_1981_1982.txt
+Title: 1981-1982 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2002_2003.txt
+Successfully parsed Premier-League_2002_2003.txt
+Title: 2002-2003 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1908_1909.txt
+Successfully parsed Premier-League_1908_1909.txt
+Title: 1908-1909 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1998_1999.txt
+Successfully parsed Premier-League_1998_1999.txt
+Title: 1998-1999 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1961_1962.txt
+Successfully parsed Premier-League_1961_1962.txt
+Title: 1961-1962 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1911_1912.txt
+Successfully parsed Premier-League_1911_1912.txt
+Title: 1911-1912 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1893_1894.txt
+Successfully parsed Premier-League_1893_1894.txt
+Title: 1893-1894 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1946_1947.txt
+Successfully parsed Premier-League_1946_1947.txt
+Title: 1946-1947 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1936_1937.txt
+Successfully parsed Premier-League_1936_1937.txt
+Title: 1936-1937 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1980_1981.txt
+Successfully parsed Premier-League_1980_1981.txt
+Title: 1980-1981 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1960_1961.txt
+Successfully parsed Premier-League_1960_1961.txt
+Title: 1960-1961 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1910_1911.txt
+Successfully parsed Premier-League_1910_1911.txt
+Title: 1910-1911 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1926_1927.txt
+Successfully parsed Premier-League_1926_1927.txt
+Title: 1926-1927 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1956_1957.txt
+Successfully parsed Premier-League_1956_1957.txt
+Title: 1956-1957 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1900_1901.txt
+Successfully parsed Premier-League_1900_1901.txt
+Title: 1900-1901 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2023_2024.txt
+Successfully parsed Premier-League_2023_2024.txt
+Title: 2023-2024 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1970_1971.txt
+Successfully parsed Premier-League_1970_1971.txt
+Title: 1970-1971 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1990_1991.txt
+Successfully parsed Premier-League_1990_1991.txt
+Title: 1990-1991 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1895_1896.txt
+Successfully parsed Premier-League_1895_1896.txt
+Title: 1895-1896 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1901_1902.txt
+Successfully parsed Premier-League_1901_1902.txt
+Title: 1901-1902 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1971_1972.txt
+Successfully parsed Premier-League_1971_1972.txt
+Title: 1971-1972 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1988_1989.txt
+Successfully parsed Premier-League_1988_1989.txt
+Title: 1988-1989 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1918_1919.txt
+Successfully parsed Premier-League_1918_1919.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2012_2013.txt
+Successfully parsed Premier-League_2012_2013.txt
+Title: 2012-2013 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1991_1992.txt
+Successfully parsed Premier-League_1991_1992.txt
+Title: 1991-1992 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1968_1969.txt
+Successfully parsed Premier-League_1968_1969.txt
+Title: 1968-1969 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1889_1890.txt
+Successfully parsed Premier-League_1889_1890.txt
+Title: 1889-1890 Football League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1894_1895.txt
+Successfully parsed Premier-League_1894_1895.txt
+Title: 1894-1895 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1959_1960.txt
+Successfully parsed Premier-League_1959_1960.txt
+Title: 1959-1960 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2017_2018.txt
+Successfully parsed Premier-League_2017_2018.txt
+Title: 2017-2018 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1999_2000.txt
+Successfully parsed Premier-League_1999_2000.txt
+Title: 1999-2000 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1919_1920.txt
+Successfully parsed Premier-League_1919_1920.txt
+Title: 1919-1920 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1931_1932.txt
+Successfully parsed Premier-League_1931_1932.txt
+Title: 1931-1932 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2022_2023.txt
+Successfully parsed Premier-League_2022_2023.txt
+Title: 2022-2023 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1958_1959.txt
+Successfully parsed Premier-League_1958_1959.txt
+Title: 1958-1959 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1928_1929.txt
+Successfully parsed Premier-League_1928_1929.txt
+Title: 1928-1929 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_2004_2005.txt
+Successfully parsed Premier-League_2004_2005.txt
+Title: 2004-2005 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2013_2014.txt
+Successfully parsed Premier-League_2013_2014.txt
+Title: 2013-2014 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1930_1931.txt
+Successfully parsed Premier-League_1930_1931.txt
+Title: 1930-1931 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1966_1967.txt
+Successfully parsed Premier-League_1966_1967.txt
+Title: 1966-1967 First Division Scores & Fixtures | FBref.com
+Reading file: Premier-League_1916_1917.txt
+Successfully parsed Premier-League_1916_1917.txt
+Title: Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_2005_2006.txt
+Successfully parsed Premier-League_2005_2006.txt
+Title: 2005-2006 Premier League Scores & Fixtures | FBref.com
+Reading file: Premier-League_1986_1987.txt
+Successfully parsed Premier-League_1986_1987.txt
+Title: 1986-1987 First Division Scores & Fixtures | FBref.com
+Processing league: ligue1
+Reading file: Ligue-1_1999_2000.txt
+Successfully parsed Ligue-1_1999_2000.txt
+Title: 1999-2000 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2022_2023.txt
+Successfully parsed Ligue-1_2022_2023.txt
+Title: 2022-2023 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2004_2005.txt
+Successfully parsed Ligue-1_2004_2005.txt
+Title: 2004-2005 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2013_2014.txt
+Successfully parsed Ligue-1_2013_2014.txt
+Title: 2013-2014 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2005_2006.txt
+Successfully parsed Ligue-1_2005_2006.txt
+Title: 2005-2006 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2023_2024.txt
+Successfully parsed Ligue-1_2023_2024.txt
+Title: 2023-2024 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2012_2013.txt
+Successfully parsed Ligue-1_2012_2013.txt
+Title: 2012-2013 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2017_2018.txt
+Successfully parsed Ligue-1_2017_2018.txt
+Title: 2017-2018 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2007_2008.txt
+Successfully parsed Ligue-1_2007_2008.txt
+Title: 2007-2008 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2002_2003.txt
+Successfully parsed Ligue-1_2002_2003.txt
+Title: 2002-2003 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1998_1999.txt
+Successfully parsed Ligue-1_1998_1999.txt
+Title: 1998-1999 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2003_2004.txt
+Successfully parsed Ligue-1_2003_2004.txt
+Title: 2003-2004 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2015_2016.txt
+Successfully parsed Ligue-1_2015_2016.txt
+Title: 2015-2016 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1996_1997.txt
+Successfully parsed Ligue-1_1996_1997.txt
+Title: 1996-1997 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2014_2015.txt
+Successfully parsed Ligue-1_2014_2015.txt
+Title: 2014-2015 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2009_2010.txt
+Successfully parsed Ligue-1_2009_2010.txt
+Title: 2009-2010 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1997_1998.txt
+Successfully parsed Ligue-1_1997_1998.txt
+Title: 1997-1998 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2011_2012.txt
+Successfully parsed Ligue-1_2011_2012.txt
+Title: 2011-2012 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2008_2009.txt
+Successfully parsed Ligue-1_2008_2009.txt
+Title: 2008-2009 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2010_2011.txt
+Successfully parsed Ligue-1_2010_2011.txt
+Title: 2010-2011 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2006_2007.txt
+Successfully parsed Ligue-1_2006_2007.txt
+Title: 2006-2007 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2020_2021.txt
+Successfully parsed Ligue-1_2020_2021.txt
+Title: 2020-2021 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2021_2022.txt
+Successfully parsed Ligue-1_2021_2022.txt
+Title: 2021-2022 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2019_2020.txt
+Successfully parsed Ligue-1_2019_2020.txt
+Title: 2019-2020 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_1995_1996.txt
+Successfully parsed Ligue-1_1995_1996.txt
+Title: 1995-1996 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2016_2017.txt
+Successfully parsed Ligue-1_2016_2017.txt
+Title: 2016-2017 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2000_2001.txt
+Successfully parsed Ligue-1_2000_2001.txt
+Title: 2000-2001 Division 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2018_2019.txt
+Successfully parsed Ligue-1_2018_2019.txt
+Title: 2018-2019 Ligue 1 Scores & Fixtures | FBref.com
+Reading file: Ligue-1_2001_2002.txt
+Successfully parsed Ligue-1_2001_2002.txt
+Title: 2001-2002 Division 1 Scores & Fixtures | FBref.com
+Processing league: laliga
+Reading file: La-Liga_2003_2004.txt
+Successfully parsed La-Liga_2003_2004.txt
+Title: 2003-2004 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2015_2016.txt
+Successfully parsed La-Liga_2015_2016.txt
+Title: 2015-2016 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1996_1997.txt
+Successfully parsed La-Liga_1996_1997.txt
+Title: 1996-1997 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2014_2015.txt
+Successfully parsed La-Liga_2014_2015.txt
+Title: 2014-2015 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2009_2010.txt
+Successfully parsed La-Liga_2009_2010.txt
+Title: 2009-2010 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2002_2003.txt
+Successfully parsed La-Liga_2002_2003.txt
+Title: 2002-2003 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1998_1999.txt
+Successfully parsed La-Liga_1998_1999.txt
+Title: 1998-1999 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2007_2008.txt
+Successfully parsed La-Liga_2007_2008.txt
+Title: 2007-2008 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2023_2024.txt
+Successfully parsed La-Liga_2023_2024.txt
+Title: 2023-2024 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1990_1991.txt
+Successfully parsed La-Liga_1990_1991.txt
+Title: 1990-1991 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2017_2018.txt
+Successfully parsed La-Liga_2017_2018.txt
+Title: 2017-2018 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1988_1989.txt
+Successfully parsed La-Liga_1988_1989.txt
+Title: 1988-1989 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1991_1992.txt
+Successfully parsed La-Liga_1991_1992.txt
+Title: 1991-1992 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2012_2013.txt
+Successfully parsed La-Liga_2012_2013.txt
+Title: 2012-2013 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2022_2023.txt
+Successfully parsed La-Liga_2022_2023.txt
+Title: 2022-2023 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2004_2005.txt
+Successfully parsed La-Liga_2004_2005.txt
+Title: 2004-2005 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1999_2000.txt
+Successfully parsed La-Liga_1999_2000.txt
+Title: 1999-2000 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2013_2014.txt
+Successfully parsed La-Liga_2013_2014.txt
+Title: 2013-2014 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2005_2006.txt
+Successfully parsed La-Liga_2005_2006.txt
+Title: 2005-2006 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2000_2001.txt
+Successfully parsed La-Liga_2000_2001.txt
+Title: 2000-2001 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2018_2019.txt
+Successfully parsed La-Liga_2018_2019.txt
+Title: 2018-2019 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2001_2002.txt
+Successfully parsed La-Liga_2001_2002.txt
+Title: 2001-2002 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1994_1995.txt
+Successfully parsed La-Liga_1994_1995.txt
+Title: 1994-1995 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1989_1990.txt
+Successfully parsed La-Liga_1989_1990.txt
+Title: 1989-1990 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2019_2020.txt
+Successfully parsed La-Liga_2019_2020.txt
+Title: 2019-2020 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1995_1996.txt
+Successfully parsed La-Liga_1995_1996.txt
+Title: 1995-1996 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2016_2017.txt
+Successfully parsed La-Liga_2016_2017.txt
+Title: 2016-2017 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2006_2007.txt
+Successfully parsed La-Liga_2006_2007.txt
+Title: 2006-2007 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2020_2021.txt
+Successfully parsed La-Liga_2020_2021.txt
+Title: 2020-2021 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1993_1994.txt
+Successfully parsed La-Liga_1993_1994.txt
+Title: 1993-1994 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2021_2022.txt
+Successfully parsed La-Liga_2021_2022.txt
+Title: 2021-2022 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2011_2012.txt
+Successfully parsed La-Liga_2011_2012.txt
+Title: 2011-2012 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1992_1993.txt
+Successfully parsed La-Liga_1992_1993.txt
+Title: 1992-1993 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2008_2009.txt
+Successfully parsed La-Liga_2008_2009.txt
+Title: 2008-2009 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_1997_1998.txt
+Successfully parsed La-Liga_1997_1998.txt
+Title: 1997-1998 La Liga Scores & Fixtures | FBref.com
+Reading file: La-Liga_2010_2011.txt
+Successfully parsed La-Liga_2010_2011.txt
+Title: 2010-2011 La Liga Scores & Fixtures | FBref.com
+Processing league: bundesliga
+Reading file: Bundesliga_2005_2006.txt
+Successfully parsed Bundesliga_2005_2006.txt
+Title: 2005-2006 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2013_2014.txt
+Successfully parsed Bundesliga_2013_2014.txt
+Title: 2013-2014 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2004_2005.txt
+Successfully parsed Bundesliga_2004_2005.txt
+Title: 2004-2005 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2022_2023.txt
+Successfully parsed Bundesliga_2022_2023.txt
+Title: 2022-2023 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1999_2000.txt
+Successfully parsed Bundesliga_1999_2000.txt
+Title: 1999-2000 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2017_2018.txt
+Successfully parsed Bundesliga_2017_2018.txt
+Title: 2017-2018 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2012_2013.txt
+Successfully parsed Bundesliga_2012_2013.txt
+Title: 2012-2013 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1991_1992.txt
+Successfully parsed Bundesliga_1991_1992.txt
+Title: 1991-1992 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1988_1989.txt
+Successfully parsed Bundesliga_1988_1989.txt
+Title: 1988-1989 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1990_1991.txt
+Successfully parsed Bundesliga_1990_1991.txt
+Title: 1990-1991 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2023_2024.txt
+Successfully parsed Bundesliga_2023_2024.txt
+Title: 2023-2024 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1998_1999.txt
+Successfully parsed Bundesliga_1998_1999.txt
+Title: 1998-1999 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2002_2003.txt
+Successfully parsed Bundesliga_2002_2003.txt
+Title: 2002-2003 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2007_2008.txt
+Successfully parsed Bundesliga_2007_2008.txt
+Title: 2007-2008 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2014_2015.txt
+Successfully parsed Bundesliga_2014_2015.txt
+Title: 2014-2015 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2009_2010.txt
+Successfully parsed Bundesliga_2009_2010.txt
+Title: 2009-2010 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1996_1997.txt
+Successfully parsed Bundesliga_1996_1997.txt
+Title: 1996-1997 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2015_2016.txt
+Successfully parsed Bundesliga_2015_2016.txt
+Title: 2015-2016 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2003_2004.txt
+Successfully parsed Bundesliga_2003_2004.txt
+Title: 2003-2004 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2010_2011.txt
+Successfully parsed Bundesliga_2010_2011.txt
+Title: 2010-2011 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2008_2009.txt
+Successfully parsed Bundesliga_2008_2009.txt
+Title: 2008-2009 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1992_1993.txt
+Successfully parsed Bundesliga_1992_1993.txt
+Title: 1992-1993 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2011_2012.txt
+Successfully parsed Bundesliga_2011_2012.txt
+Title: 2011-2012 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1997_1998.txt
+Successfully parsed Bundesliga_1997_1998.txt
+Title: 1997-1998 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2021_2022.txt
+Successfully parsed Bundesliga_2021_2022.txt
+Title: 2021-2022 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1993_1994.txt
+Successfully parsed Bundesliga_1993_1994.txt
+Title: 1993-1994 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2020_2021.txt
+Successfully parsed Bundesliga_2020_2021.txt
+Title: 2020-2021 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2006_2007.txt
+Successfully parsed Bundesliga_2006_2007.txt
+Title: 2006-2007 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2016_2017.txt
+Successfully parsed Bundesliga_2016_2017.txt
+Title: 2016-2017 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1995_1996.txt
+Successfully parsed Bundesliga_1995_1996.txt
+Title: 1995-1996 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1994_1995.txt
+Successfully parsed Bundesliga_1994_1995.txt
+Title: 1994-1995 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_1989_1990.txt
+Successfully parsed Bundesliga_1989_1990.txt
+Title: 1989-1990 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2019_2020.txt
+Successfully parsed Bundesliga_2019_2020.txt
+Title: 2019-2020 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2001_2002.txt
+Successfully parsed Bundesliga_2001_2002.txt
+Title: 2001-2002 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2018_2019.txt
+Successfully parsed Bundesliga_2018_2019.txt
+Title: 2018-2019 Bundesliga Scores & Fixtures | FBref.com
+Reading file: Bundesliga_2000_2001.txt
+Successfully parsed Bundesliga_2000_2001.txt
+Title: 2000-2001 Bundesliga Scores & Fixtures | FBref.com

@@ -1,5 +1,6 @@
 from utility import Season
 import pandas as pd
+import numpy as np
 
 class LeagueHistory:
     '''class for managing all the data scraped from the webiste
@@ -31,17 +32,24 @@ class LeagueHistory:
 
     def splitScoreLine(self, df):
         '''helper method that adds two additional columns 'home_score' and 'away_score' to the pandas dataframe'''
-
+        
         # Replace en dash with hyphen
         df['score'] = df['score'].str.replace('–', '-', regex=False)
+        
+        # Handle edge cases: remove anything inside parentheses and strip whitespace
+        df['score'] = df['score'].str.replace(r'\(.*?\)', '', regex=True).str.strip()
+        
+        # Replace empty strings with NaN
+        df['score'] = df['score'].replace('', np.nan)
         
         # Now split the score column
         try:
             df[['home_score', 'away_score']] = df['score'].str.split('-', expand=True)
             
-            # Convert to integers
-            df['home_score'] = df['home_score'].astype(int)
-            df['away_score'] = df['away_score'].astype(int)
+            # Convert to integers, handle NaN values gracefully
+            df['home_score'] = pd.to_numeric(df['home_score'], errors='coerce')
+            df['away_score'] = pd.to_numeric(df['away_score'], errors='coerce')
+            
         except Exception as e:
             print("Error while splitting score column:", e)
 
@@ -85,10 +93,17 @@ class LeagueHistory:
                 combinedDF = seasonDF
             else:
                 common_columns = combinedDF.columns.intersection(seasonDF.columns).tolist()
-                combinedDF = pd.merge(combinedDF, seasonDF, on=common_columns, how='outer')
+                if not combinedDF.empty and not seasonDF.empty:
+                    combinedDF = pd.merge(combinedDF, seasonDF, on=common_columns, how='outer')
+                else:
+                    print("One of the DataFrames is empty. Cannot merge.")
         
         #clean up and adjust master dataframe and then set it for the league
         combinedDF = combinedDF.drop_duplicates()
+        # Step 2: Get unique values from the 'score' column
+        unique_scores = combinedDF['score'].unique()
+        # Step 3: Print the unique scores
+        print(self.getLeagueName() + " unique scores:", unique_scores)
         self.splitScoreLine(combinedDF)
         self.formatDate(combinedDF)
         self.setLeagueHistoryTable(combinedDF)

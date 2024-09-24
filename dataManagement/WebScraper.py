@@ -1,31 +1,34 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import re
 
 
-#Plan of Action
-    # this class should be holding all season and match data, it should not store an individual season dataframe
-    # will need to rethink the constructor to make this a more accurate representation of a data management tier
-                # potentially build a method that parses an html page rather than have a soupObject designated for the Data Manager
-                # only class variables should be a list of seasons parsed and maybe a beautiful soup object
 
 class WebScraper:
 
-    def __init__(self, websiteUrl):
+    def __init__(self, websiteUrl = None, pageText = None):
+        '''multimodal webscraper that can either take a url or page that has already been requested and gather relevant contents related to a soccer season of a given league'''
         self.url = websiteUrl
-        self.page = None
+        self.pageText = pageText
         self.soupObject = None
+
+        # If URL is provided and no pageText, fetch and parse the content
+        if self.url and not self.pageText:
+            try:
+                self.page = requests.get(self.url)
+                self.page.raise_for_status()  # Raise HTTPError for bad responses
+                self.pageText = self.page.text  # Store the fetched content
+            except requests.exceptions.RequestException as e:
+                print(f"An error occurred while fetching the URL: {e}")
+            except Exception as e:
+                print(f"An unknown error occurred: {e}")
         
-        # Error handling for request and parsing
-        try:
-            self.page = requests.get(self.url)
-            self.page.raise_for_status()  # Raise HTTPError for bad responses (4xx and 5xx)
-            self.soupObject = BeautifulSoup(self.page.text, "html.parser")
-        except requests.exceptions.RequestException as e:
-            print(f"An error occurred while fetching the URL: {e}")
-        except Exception as e:
-            print(f"An error occurred while parsing the page: {e}")
+        # If pageText is available (either provided or fetched), parse it
+        if self.pageText:
+            try:
+                self.soupObject = BeautifulSoup(self.pageText, "html.parser")
+            except Exception as e:
+                print(f"An error occurred while parsing the page: {e}")
     
     def getPageHeader(self, containerTag = "div", containerId ="info", headerTag = "h1"):
         try:

@@ -1,6 +1,3 @@
-from utility import LeagueHistory
-import pandas as pd
-
 class LeagueStorage:
 
     def __init__(self):
