@@ -11,7 +11,7 @@
 
 ## Introduction
 
-**Futigami** is a dashboard that shows all the unique scorelines in Europes Top 5 futbol leagues. It is based on **Scorigami** which is the American Football version depicting/recording all the unique scores ever recorded in a official game in the NFL.
+**Futigami** is a dashboard that shows all the unique scorelines in Europes Top 5 futbol leagues. It is based on **Scorigami** which is the American Football version depicting all the unique scores ever recorded in a official game in the NFL.
 
 ## Screenshots
 Here’s a video of a local session in action:
@@ -20,8 +20,8 @@ Here’s a video of a local session in action:
 
 ## Installation
 ```
-git clone 
-cd XXXXX
+git clone https://github.com/PaursaK/Futigami.git
+cd Futigami
 ```
 ## Methods
 
