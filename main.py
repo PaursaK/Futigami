@@ -22,7 +22,7 @@ def scrape_league_data(league_name, league_id):
     ua = UserAgent()  # For rotating user agents
 
     # Scrape data for seasons from 2023 to 2024
-    for year in range(1950, 2024):
+    for year in range(2013, 2014):
         url = f"https://fbref.com/en/comps/{league_id}/{year}-{year + 1}/schedule/{year}-{year + 1}-{league_name.replace(' ', '-')}-Scores-and-Fixtures"
 
         headers = {
@@ -30,7 +30,7 @@ def scrape_league_data(league_name, league_id):
         }
         
         # Adding a delay before each request to avoid getting blocked
-        time.sleep(random.uniform(1, 10))  # Wait 1-3 seconds before making a request
+        #time.sleep(random.uniform(1, 2))  # Wait 1-3 seconds before making a request
 
         response = requests.get(url, headers=headers)
         if response.status_code == 200:

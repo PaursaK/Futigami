@@ -50,8 +50,12 @@ class UserInterface:
             Input('end-year-dropdown', 'value')
         )
         def update_heatmap(selectedLeague, startYear, endYear):
+            # Handle None values before calling int()
+            startYear = int(startYear) if startYear is not None else None
+            endYear = int(endYear) if endYear is not None else None
+
             league = RequestProcessor.leagueSelect(selectedLeague, self.leagueStorage)
-            filtered_df = RequestProcessor.yearInterval(int(startYear), int(endYear), league)
+            filtered_df = RequestProcessor.yearInterval(startYear, endYear, league)
 
             # Create a heatmap
             fig = px.density_heatmap(
