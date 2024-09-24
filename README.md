@@ -3,12 +3,11 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Screenshots](#screenshots)
-3. [Installation](#installation)
-4. [Methods](#methods)
-5. [Limitations](#limitations)
-6. [Technologies Used](#technologies-used)
-7. [File Structure](#file-structure)
-8. [Future Improvements](#future-improvements)
+3. [Methods](#methods)
+4. [Limitations](#limitations)
+5. [Technologies Used](#technologies-used)
+6. [File Structure](#file-structure)
+7. [Future Improvements](#future-improvements)
 
 ## Introduction
 
@@ -19,11 +18,6 @@ Here’s a video of a local session in action:
 
 ![Session Screenshot](./assets/localhostsession.mov)
 
-## Installation
-```
-git clone https://github.com/PaursaK/Futigami.git
-cd Futigami
-```
 ## Methods
 
 Using data science packages and webscraping tools I gathered information from https://fbref.com/en/ on Europes Top 5 leagues (Premier League, La Liga, Bundesliga, Ligue 1, Serie A)
