@@ -15,7 +15,7 @@
 - **Link To Scorigami Reference**: https://nflscorigami.com/
 
 ## Screenshots
-Here’s a video of a local session in action:
+Here’s a video of a local session in action (click the image below):
 
 [![Watch the demo video](./assets/screenshot.png)](https://drive.google.com/file/d/1gtmg7aCjsh6s_Fu5fPD9SIIndJEzFOn6/view?usp=sharing)
 
