@@ -106,4 +106,3 @@ A future goal is to make these statistics available on a publicly accessible web
 - **View Data Anytime**: Access statistics such as league standings, match results, and historical data through a user-friendly web interface.
 - **Interactive Dashboards**: Provide dynamic visualizations like heatmaps, bar charts, and goal distribution plots, enhancing the exploration of football data.
 - **Custom Queries**: Enable users to search for specific data (e.g., by team, year, or match outcomes) to tailor insights to their interests.
-- **Real-Time Updates**: Eventually, we plan to incorporate live updates for ongoing seasons, allowing users to track current statistics as matches occur.
