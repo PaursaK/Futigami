@@ -51,7 +51,7 @@ for league_folder in os.listdir(data_folder):
                     fixture_table_dict = scraper.readWebsiteTableData()
                     each_season = LH.createSeasonObject(season_summary_dict, fixture_table_dict)
                 
-                # Example of processing the parsed content
+                # processing the parsed content
                 if scraper.soupObject:
                     logger.log(f"Successfully parsed {page_file}")
                     # Example: log the page title
