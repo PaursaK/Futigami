@@ -16,7 +16,8 @@
 ## Screenshots
 Here’s a video of a local session in action:
 
-![Google Drive Link To Watch Demo](https://drive.google.com/file/d/1gtmg7aCjsh6s_Fu5fPD9SIIndJEzFOn6/view?usp=sharing)
+[![Watch the demo video](./assets/screenshot.png)](https://drive.google.com/file/d/1gtmg7aCjsh6s_Fu5fPD9SIIndJEzFOn6/view?usp=sharing)
+
 
 ## Methods
 
