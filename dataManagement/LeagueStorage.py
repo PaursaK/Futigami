@@ -1,5 +1,5 @@
 class LeagueStorage:
-
+    '''class designed to hold all the different leagues history'''
     def __init__(self):
         '''constructor for the LeagueStorage object. This object will house all the leagues of interest'''
         self.leaguesDict = {}

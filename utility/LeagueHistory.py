@@ -3,8 +3,7 @@ import pandas as pd
 import numpy as np
 
 class LeagueHistory:
-    '''class for managing all the data scraped from the webiste
-    I imagine that each instance of this class would store/manage a particular league and its history of matches'''
+    '''class for managing all the data scraped from the webiste'''
 
     def __init__(self, leagueName):
         self.leagueName = leagueName

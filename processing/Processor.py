@@ -1,7 +1,5 @@
-from dataManagement import LeagueStorage
-
 class RequestProcessor:
-
+    '''static class for processing different requests from the user when interacting with the dashboard'''
     def leagueSelect(leagueName, leagueStorage):
         '''returns the dataframe associated with the league selected'''
         return leagueStorage.getALeague(leagueName)

@@ -5,7 +5,7 @@ import plotly.express as px
 from processing import RequestProcessor
 
 class UserInterface:
-    
+    '''user interface for the webscraping application. This class will use plotly as the visualization tool for the data collected'''
     def __init__(self, leagueStorage):
 
         #store reference to the top 5 leagues data
