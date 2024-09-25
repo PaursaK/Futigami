@@ -91,7 +91,7 @@ FUTIGAMI/               # Project root
 
 ## Future Improvements
 ### **Additional Statistics**:
-I plan to introduce more advanced statistics based on the scraped data. Some key metrics we aim to publish include:
+I plan to introduce more advanced statistics based on the scraped data. Some key metrics I aim to publish include:
 
 - **Goals per Season/Year**: Aggregate and display the total number of goals scored each season, with breakdowns by team, player, and matchday.
 - **Top Scorers by League and Season**: Identify and showcase the top goal scorers for each league across different seasons.
